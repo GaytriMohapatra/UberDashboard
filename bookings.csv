@@ -1,0 +1,1001 @@
+date,time,booking_id,booking_status,customer_id,vehicle_type,pickup_location,drop_location,avg_vtat,avg_ctat,cancelled_rides_by_customer,reason_for_cancelling_by_customer,cancelled_rides_by_driver,reason_for_cancelling_by_driver,incomplete_rides,incomplete_rides_reason,booking_value,ride_distance,driver_ratings,customer_rating,Payment_Method
+2024-02-23,08:07:00,CNR8207111615,"Driver Not Found",451968,"Prime Plus","Area 5","Area 23",0,0,0,,0,,0,,463,0,0,0,Card
+2024-02-12,21:20:00,CNR5102095661,"Cancelled By Driver",107193,"Prime SUV","Area 32","Area 1",0,0,0,,1,"More than permitted people in there",0,,456,0,0,0,Cash
+2024-02-12,01:10:00,CNR9053941249,"Cancelled By Driver",913691,"Prime SUV","Area 49","Area 21",0,0,0,,1,"Personal & Car related issues",0,,204,0,0,0,Cash
+2024-02-26,22:02:00,CNR3021447486,Success,601168,"Prime Sedan","Area 7","Area 39",4.94594,6.04025,0,,0,,0,,373,24.7,3.5,3.9,Card
+2024-02-24,18:02:00,CNR9470962449,"Driver Not Found",517540,"Prime SUV","Area 8","Area 4",0,0,0,,0,,0,,310,0,0,0,Cash
+2024-02-05,14:29:00,CNR2784362395,"Driver Not Found",420696,Bike,"Area 40","Area 25",0,0,0,,0,,0,,464,0,0,0,UPI
+2024-02-09,23:33:00,CNR2970819608,Success,189980,"Prime Sedan","Area 43","Area 13",6.69705,18.6442,0,,0,,0,,331,8.54,3.8,4.1,Cash
+2024-02-20,20:23:00,CNR1757359658,Success,909254,Bike,"Area 44","Area 25",9.27558,18.7237,0,,0,,0,,100,8.74,3.1,3.1,Cash
+2024-02-24,09:51:00,CNR4565750126,Success,608412,Mini,"Area 44","Area 31",6.34643,18.3525,0,,0,,0,,979,19.01,4.6,4.6,Cash
+2024-02-22,20:21:00,CNR4159214919,Success,420908,"Prime Plus","Area 29","Area 31",4.11759,17.2961,0,,0,,0,,997,17.24,4.8,3.1,UPI
+2024-02-08,16:29:00,CNR8581199021,Success,387814,Bike,"Area 2","Area 41",3.05981,7.5246,0,,0,,0,,157,2.33,4.3,4.2,Cash
+2024-02-03,14:36:00,CNR2868285244,Success,755554,eBike,"Area 40","Area 41",11.7656,7.2534,0,,0,,0,,209,11.93,4.7,4,Cash
+2024-02-11,11:39:00,CNR7348053969,Success,319903,Mini,"Area 20","Area 23",3.07125,13.7601,0,,0,,0,,116,15.95,3.7,4.1,Cash
+2024-02-15,14:55:00,CNR8346416652,"Cancelled by Customer",922952,"Prime SUV","Area 47","Area 1",0,0,1,"Change of plans",0,,0,,601,0,0,0,Card
+2024-02-10,05:22:00,CNR7999496791,Success,856096,"Prime SUV","Area 45","Area 12",6.99033,11.7443,0,,0,,0,,605,15.76,4.3,4.3,Card
+2024-02-03,15:41:00,CNR6979056004,Success,553429,"Prime Plus","Area 21","Area 31",14.2181,6.27993,0,,0,,0,,251,6.78,5,4.7,Card
+2024-02-26,15:50:00,CNR2328833545,Success,216111,eBike,"Area 24","Area 47",13.9734,18.9172,0,,0,,0,,509,3.18,4.9,4.7,Cash
+2024-02-23,17:52:00,CNR9673016483,Success,296444,Bike,"Area 48","Area 41",7.02583,6.95477,0,,0,,0,,230,22.8,5,4.6,Cash
+2024-02-17,18:26:00,CNR8405553592,Success,923677,"Prime Plus","Area 24","Area 13",14.6439,9.93602,0,,0,,0,,117,4.53,3.5,4.1,UPI
+2024-02-06,10:03:00,CNR5973559694,Success,173304,eBike,"Area 26","Area 40",9.1441,22.0506,0,,0,,0,,615,19.07,3.7,3.8,Cash
+2024-02-20,17:47:00,CNR2603753730,Success,942881,eBike,"Area 36","Area 31",3.61337,19.001,0,,0,,0,,439,2.2,4.8,4,UPI
+2024-02-19,14:08:00,CNR2757269910,Success,446831,Mini,"Area 4","Area 33",6.82398,12.3893,0,,0,,0,,350,3.3,4.9,4.7,UPI
+2024-02-10,08:58:00,CNR7531805193,"Cancelled By Driver",173180,"Prime SUV","Area 19","Area 44",0,0,0,,1,"The customer was coughing/sick",0,,550,0,0,0,Card
+2024-02-07,12:25:00,CNR2475172824,Success,358303,Auto,"Area 12","Area 33",3.41914,12.1069,0,,0,,0,,796,11.1,4.9,3.3,UPI
+2024-02-17,09:18:00,CNR2093637870,Success,884407,"Prime Sedan","Area 42","Area 25",5.96334,19.9238,0,,0,,0,,775,20.62,4.6,4.1,Cash
+2024-02-27,05:45:00,CNR5325753598,"Cancelled by Customer",496204,eBike,"Area 23","Area 9",0,0,1,"AC is not working",0,,0,,758,0,0,0,Card
+2024-02-29,14:35:00,CNR1027346558,Success,982079,"Prime Plus","Area 21","Area 43",14.3282,9.31232,0,,0,,0,,212,5.8,3.5,4.6,Cash
+2024-02-02,15:32:00,CNR8152626090,"Driver Not Found",907955,Mini,"Area 48","Area 34",0,0,0,,0,,0,,519,0,0,0,UPI
+2024-02-10,23:43:00,CNR3249841863,Success,977248,Bike,"Area 35","Area 39",5.0309,19.6093,0,,0,,0,,312,20.51,4.5,3.6,UPI
+2024-02-14,11:33:00,CNR5725760797,Success,946182,Bike,"Area 34","Area 10",8.91124,18.4338,0,,0,,0,,180,23.71,5,3.8,Cash
+2024-02-12,11:06:00,CNR9413980698,Success,757296,Bike,"Area 22","Area 14",11.9065,9.4709,0,,0,,1,"Vehicle Breakdown",559,4.97,3.4,3.3,Card
+2024-02-08,06:02:00,CNR9365784980,Success,430102,Bike,"Area 8","Area 28",4.515,6.34106,0,,0,,0,,277,18.16,4.1,4.4,UPI
+2024-02-06,17:22:00,CNR2582455173,"Cancelled By Driver",446686,"Prime Plus","Area 38","Area 34",0,0,0,,1,"The customer was coughing/sick",0,,198,0,0,0,Cash
+2024-02-03,21:58:00,CNR7805824706,Success,418393,"Prime Plus","Area 17","Area 7",9.74314,16.9317,0,,0,,0,,910,13.81,3.6,4.5,Cash
+2024-02-16,23:43:00,CNR5440190684,Success,418531,"Prime Plus","Area 22","Area 17",11.4575,22.4137,0,,0,,0,,786,9.86,3.4,4.9,UPI
+2024-02-12,02:38:00,CNR2492762303,Success,402946,"Prime SUV","Area 18","Area 25",3.62038,16.2859,0,,0,,0,,831,23.45,3.5,3.6,Card
+2024-02-09,12:17:00,CNR5980116294,Success,896192,"Prime Plus","Area 4","Area 40",3.57721,10.1355,0,,0,,0,,356,16.33,3.1,3.9,Cash
+2024-02-19,03:52:00,CNR6551195297,"Cancelled by Customer",986396,"Prime Sedan","Area 48","Area 48",0,0,1,"AC is not working",0,,0,,673,0,0,0,UPI
+2024-02-16,22:09:00,CNR9951725148,Success,653082,Auto,"Area 23","Area 37",10.722,16.3705,0,,0,,0,,118,2.19,4.9,4,Card
+2024-02-28,20:09:00,CNR1580992057,"Driver Not Found",154741,"Prime Plus","Area 16","Area 20",0,0,0,,0,,0,,964,0,0,0,Cash
+2024-02-19,05:27:00,CNR6666635914,Success,876908,Mini,"Area 22","Area 20",11.7992,7.04555,0,,0,,0,,715,4.29,4.6,3.3,Card
+2024-02-16,19:12:00,CNR4677102099,Success,854680,eBike,"Area 37","Area 49",9.59916,14.8678,0,,0,,0,,233,12.56,3.7,3.9,Cash
+2024-02-23,03:05:00,CNR3367345975,"Cancelled By Driver",358011,eBike,"Area 46","Area 30",0,0,0,,1,"Customer related issue",0,,166,0,0,0,Cash
+2024-02-08,17:51:00,CNR1867428029,"Driver Not Found",937032,"Prime Plus","Area 6","Area 42",0,0,0,,0,,0,,129,0,0,0,Cash
+2024-02-02,08:06:00,CNR2193718295,Success,487547,"Prime Sedan","Area 15","Area 10",11.2127,15.6033,0,,0,,0,,2706,13.13,3.5,3.8,Cash
+2024-02-18,23:09:00,CNR5081309945,Success,358993,Auto,"Area 38","Area 26",14.1006,7.18125,0,,0,,0,,175,18.59,3.5,4,UPI
+2024-02-23,07:34:00,CNR4787676456,"Cancelled By Driver",681133,"Prime Sedan","Area 49","Area 22",0,0,0,,1,"More than permitted people in there",0,,428,0,0,0,UPI
+2024-02-01,10:43:00,CNR1874121938,"Cancelled By Driver",656452,Bike,"Area 5","Area 45",0,0,0,,1,"More than permitted people in there",0,,119,0,0,0,UPI
+2024-02-11,07:58:00,CNR8695252323,"Cancelled By Driver",386215,Auto,"Area 29","Area 35",0,0,0,,1,"More than permitted people in there",0,,135,0,0,0,Cash
+2024-02-28,14:28:00,CNR9872648869,"Cancelled by Customer",188096,"Prime Plus","Area 24","Area 38",0,0,1,"Change of plans",0,,0,,476,0,0,0,Cash
+2024-02-12,06:16:00,CNR8534391034,Success,855786,"Prime Sedan","Area 21","Area 18",10.2004,18.0399,0,,0,,0,,333,13.9,4.9,4.7,Card
+2024-02-10,11:50:00,CNR1765047223,Success,265447,Bike,"Area 45","Area 25",4.99764,6.24396,0,,0,,0,,113,21.43,3.5,4.4,Cash
+2024-02-14,15:14:00,CNR6530233897,Success,513446,eBike,"Area 29","Area 14",5.13156,23.2752,0,,0,,0,,269,14.97,3.4,3.3,UPI
+2024-02-24,18:34:00,CNR9408629171,Success,308586,Bike,"Area 14","Area 39",8.54163,13.9399,0,,0,,0,,178,4.39,3.4,3,Cash
+2024-02-04,19:53:00,CNR6359579390,"Cancelled By Driver",453177,"Prime Sedan","Area 24","Area 16",0,0,0,,1,"More than permitted people in there",0,,117,0,0,0,Cash
+2024-02-29,04:14:00,CNR7511114045,Success,597027,eBike,"Area 33","Area 31",13.2824,20.8524,0,,0,,0,,2627,11.51,3.5,3,Card
+2024-02-01,11:03:00,CNR8347788930,Success,986594,"Prime Plus","Area 35","Area 30",12.7236,6.51925,0,,0,,0,,257,21.23,3.2,5,Card
+2024-02-05,03:38:00,CNR6994264517,"Driver Not Found",888600,"Prime Plus","Area 29","Area 8",0,0,0,,0,,0,,229,0,0,0,Cash
+2024-02-19,08:40:00,CNR2569413543,"Cancelled by Customer",365415,"Prime Sedan","Area 2","Area 23",0,0,1,"Change of plans",0,,0,,847,0,0,0,UPI
+2024-02-18,11:54:00,CNR8282610728,Success,631119,Mini,"Area 6","Area 4",3.10295,12.9103,0,,0,,0,,791,22.84,4.8,4,Cash
+2024-02-16,02:43:00,CNR1834587161,Success,970260,"Prime Plus","Area 42","Area 19",10.8773,6.77043,0,,0,,0,,288,21.55,4.9,3.7,Cash
+2024-02-10,02:24:00,CNR1825485614,"Cancelled By Driver",919015,"Prime Sedan","Area 19","Area 38",0,0,0,,1,"The customer was coughing/sick",0,,157,0,0,0,UPI
+2024-02-15,15:03:00,CNR2262548654,"Cancelled By Driver",839610,"Prime Sedan","Area 14","Area 33",0,0,0,,1,"More than permitted people in there",0,,746,0,0,0,Card
+2024-02-26,11:58:00,CNR4721909466,Success,665134,Bike,"Area 18","Area 48",7.70014,22.3411,0,,0,,0,,231,11.54,5,4,UPI
+2024-02-02,06:08:00,CNR8148874878,Success,145167,Bike,"Area 43","Area 3",14.4335,16.8121,0,,0,,0,,175,7.02,4.9,3,Cash
+2024-02-04,13:05:00,CNR4853057499,Success,675761,Bike,"Area 7","Area 3",11.4178,21.4392,0,,0,,0,,283,18.14,3.9,3.7,UPI
+2024-02-01,06:04:00,CNR2195958539,"Cancelled By Driver",170809,eBike,"Area 17","Area 22",0,0,0,,1,"More than permitted people in there",0,,175,0,0,0,UPI
+2024-02-27,13:01:00,CNR9994697966,Success,764523,Bike,"Area 29","Area 5",6.56422,18.0405,0,,0,,0,,298,18.56,4.7,3.3,UPI
+2024-02-04,01:45:00,CNR2852319947,Success,682534,"Prime Sedan","Area 16","Area 13",3.48487,16.4849,0,,0,,0,,297,15.81,5,3.3,Card
+2024-02-13,20:33:00,CNR1493343454,"Driver Not Found",673331,"Prime Sedan","Area 44","Area 1",0,0,0,,0,,0,,434,0,0,0,UPI
+2024-02-02,19:38:00,CNR6720725669,Success,905510,Auto,"Area 27","Area 42",5.00881,24.571,0,,0,,0,,544,7.14,3.5,3.4,UPI
+2024-02-20,18:57:00,CNR4180819923,Success,110978,"Prime SUV","Area 2","Area 50",14.9088,19.4257,0,,0,,0,,906,8.01,4.6,3.2,UPI
+2024-02-08,13:30:00,CNR1594393392,Success,864043,Mini,"Area 42","Area 33",8.62044,22.4652,0,,0,,0,,358,22.67,4.1,3.9,Card
+2024-02-03,06:51:00,CNR4488247510,Success,823058,"Prime Plus","Area 49","Area 42",7.92092,8.18727,0,,0,,0,,138,21.88,4.2,3.3,Cash
+2024-02-25,18:13:00,CNR2239065042,"Driver Not Found",171888,Mini,"Area 22","Area 36",0,0,0,,0,,0,,133,0,0,0,Cash
+2024-02-21,07:56:00,CNR8278250945,"Cancelled By Driver",428410,eBike,"Area 46","Area 36",0,0,0,,1,"The customer was coughing/sick",0,,283,0,0,0,UPI
+2024-02-17,13:49:00,CNR2464149331,Success,935832,Mini,"Area 19","Area 4",3.99323,8.70898,0,,0,,0,,461,11.94,3.5,4.7,Card
+2024-02-03,23:06:00,CNR6637798593,"Cancelled By Driver",743146,Bike,"Area 3","Area 9",0,0,0,,1,"Customer related issue",0,,231,0,0,0,Card
+2024-02-20,21:05:00,CNR2742815058,Success,404366,"Prime Sedan","Area 13","Area 10",3.9579,24.3669,0,,0,,0,,848,18.32,4.2,4.8,Cash
+2024-02-28,23:29:00,CNR4876064594,"Cancelled By Driver",314560,"Prime Plus","Area 37","Area 12",0,0,0,,1,"More than permitted people in there",0,,217,0,0,0,Card
+2024-02-29,08:27:00,CNR5755060195,"Driver Not Found",560799,eBike,"Area 16","Area 25",0,0,0,,0,,0,,476,0,0,0,UPI
+2024-02-03,13:56:00,CNR5385924683,Success,572853,eBike,"Area 4","Area 19",9.45988,6.12504,0,,0,,0,,303,3.18,3.6,4.8,UPI
+2024-02-12,16:56:00,CNR6164306467,Success,857813,"Prime SUV","Area 22","Area 30",7.9991,24.0412,0,,0,,0,,991,23.66,3.2,4.3,Cash
+2024-02-26,02:08:00,CNR3572427608,"Cancelled By Driver",130940,"Prime Sedan","Area 18","Area 4",0,0,0,,1,"Personal & Car related issues",0,,207,0,0,0,UPI
+2024-02-28,21:52:00,CNR4663711077,"Cancelled By Driver",861930,Auto,"Area 40","Area 37",0,0,0,,1,"More than permitted people in there",0,,274,0,0,0,Cash
+2024-02-18,08:24:00,CNR6175075072,"Cancelled By Driver",537381,Mini,"Area 48","Area 18",0,0,0,,1,"Customer related issue",0,,579,0,0,0,UPI
+2024-02-27,08:14:00,CNR9889368940,Success,939777,Auto,"Area 2","Area 7",7.64847,23.869,0,,0,,0,,148,24.05,3.2,4.3,UPI
+2024-02-15,04:26:00,CNR5496788433,Success,690310,"Prime Plus","Area 14","Area 27",9.46775,24.0239,0,,0,,0,,554,19.9,4.3,3.7,UPI
+2024-02-27,01:44:00,CNR9151059981,Success,938357,"Prime Sedan","Area 18","Area 41",5.46468,7.10133,0,,0,,0,,324,20.62,3.1,3,UPI
+2024-02-20,00:45:00,CNR3656847461,Success,570260,Bike,"Area 2","Area 8",9.09644,23.2852,0,,0,,0,,443,12.14,3.7,3.3,Card
+2024-02-28,21:02:00,CNR7057071486,Success,714762,"Prime Sedan","Area 14","Area 7",4.24968,24.7187,0,,0,,0,,414,8.39,3.5,4.4,UPI
+2024-02-21,05:40:00,CNR3150221638,Success,205766,Auto,"Area 48","Area 49",8.42381,19.399,0,,0,,0,,435,22.53,4.3,4.5,Cash
+2024-02-22,04:38:00,CNR2498206939,Success,916676,"Prime SUV","Area 40","Area 26",7.84855,7.4756,0,,0,,0,,629,18.99,3.2,4.1,Cash
+2024-02-20,23:55:00,CNR6392545440,Success,207049,"Prime SUV","Area 48","Area 40",12.0739,5.6391,0,,0,,0,,245,20.05,4.9,4.6,UPI
+2024-02-12,19:02:00,CNR2714443381,Success,785070,Mini,"Area 2","Area 25",12.2746,18.1146,0,,0,,0,,368,2.97,4.8,4.2,Cash
+2024-02-29,16:11:00,CNR1024684139,Success,911363,"Prime SUV","Area 36","Area 40",4.31665,11.6785,0,,0,,0,,116,3.17,4.3,4.8,Cash
+2024-02-07,03:24:00,CNR1931670765,"Driver Not Found",532694,"Prime SUV","Area 18","Area 40",0,0,0,,0,,0,,384,0,0,0,Cash
+2024-02-06,14:03:00,CNR7458697144,"Driver Not Found",145285,Mini,"Area 26","Area 18",0,0,0,,0,,0,,995,0,0,0,Card
+2024-02-26,16:13:00,CNR2340853405,"Cancelled By Driver",190462,Mini,"Area 25","Area 15",0,0,0,,1,"More than permitted people in there",0,,848,0,0,0,Cash
+2024-02-19,13:59:00,CNR4927909703,Success,227793,Mini,"Area 6","Area 41",4.65675,17.6564,0,,0,,0,,626,18.69,3.5,3.3,Cash
+2024-02-01,04:33:00,CNR4613905215,Success,134836,eBike,"Area 18","Area 15",5.08467,7.80928,0,,0,,0,,505,7.85,4.3,4.8,Cash
+2024-02-15,20:12:00,CNR3396137030,Success,750097,Mini,"Area 34","Area 5",5.62885,7.34889,0,,0,,0,,155,10.57,4,4.8,Card
+2024-02-24,03:12:00,CNR3890985196,Success,169285,"Prime Plus","Area 50","Area 24",11.3312,12.1041,0,,0,,0,,160,15.89,3.4,4,Card
+2024-02-12,18:13:00,CNR3360048385,Success,164066,"Prime SUV","Area 21","Area 8",6.84068,20.2976,0,,0,,0,,479,5.91,4,4.7,Cash
+2024-02-03,06:08:00,CNR1125285727,Success,897617,"Prime Sedan","Area 9","Area 49",11.6217,16.9592,0,,0,,0,,2259,20.9,4.3,4.3,Cash
+2024-02-21,07:19:00,CNR4194170845,Success,561354,Bike,"Area 43","Area 42",12.137,23.838,0,,0,,0,,123,23.91,3.2,3.9,Card
+2024-02-19,14:10:00,CNR7183415367,"Driver Not Found",159674,"Prime Plus","Area 32","Area 43",0,0,0,,0,,0,,629,0,0,0,UPI
+2024-02-09,20:05:00,CNR1378205285,Success,592216,"Prime Sedan","Area 18","Area 24",3.07915,16.8033,0,,0,,0,,445,18.97,3,4.2,Cash
+2024-02-19,05:24:00,CNR3835180013,Success,263844,Bike,"Area 6","Area 28",7.5356,11.8436,0,,0,,0,,724,14.87,4.4,4.5,Card
+2024-02-15,14:47:00,CNR3149109206,Success,632669,Mini,"Area 39","Area 31",14.071,13.2435,0,,0,,1,"Vehicle Breakdown",269,10.48,3.2,4,UPI
+2024-02-26,11:57:00,CNR9499886235,Success,403415,"Prime Plus","Area 14","Area 39",14.0666,11.7196,0,,0,,0,,199,9.11,4.2,4.1,UPI
+2024-02-24,15:36:00,CNR2122894988,"Cancelled By Driver",847394,"Prime Plus","Area 45","Area 39",0,0,0,,1,"More than permitted people in there",0,,832,0,0,0,Card
+2024-02-16,15:59:00,CNR9790456175,Success,103424,"Prime Sedan","Area 4","Area 44",12.1253,5.60636,0,,0,,0,,159,11.52,4.9,3.4,Cash
+2024-02-28,22:55:00,CNR8238778831,Success,993791,Mini,"Area 44","Area 23",4.9939,11.1928,0,,0,,1,"Vehicle Breakdown",286,19.66,4.4,3.8,Card
+2024-02-25,12:57:00,CNR6760510167,"Driver Not Found",550945,Mini,"Area 35","Area 8",0,0,0,,0,,0,,386,0,0,0,Card
+2024-02-06,00:10:00,CNR2211306986,Success,863065,"Prime SUV","Area 49","Area 1",11.8477,20.9923,0,,0,,0,,685,6.77,3.8,4.9,Card
+2024-02-28,13:21:00,CNR1768467002,"Driver Not Found",941412,Auto,"Area 9","Area 15",0,0,0,,0,,0,,643,0,0,0,UPI
+2024-02-15,22:59:00,CNR7676805217,Success,641032,eBike,"Area 44","Area 7",6.62416,14.7809,0,,0,,0,,384,13.28,4.8,4,Card
+2024-02-04,03:38:00,CNR1696199050,"Cancelled By Driver",970960,Mini,"Area 4","Area 48",0,0,0,,1,"Customer related issue",0,,347,0,0,0,Cash
+2024-02-08,22:28:00,CNR5531935048,Success,893116,"Prime Plus","Area 18","Area 36",14.9533,19.2946,0,,0,,0,,744,20.21,4.2,3.7,Card
+2024-02-05,13:07:00,CNR6958088019,Success,115719,Mini,"Area 27","Area 4",12.2338,23.1655,0,,0,,0,,491,12.62,4.8,3.7,UPI
+2024-02-02,00:22:00,CNR7496041127,Success,945476,"Prime SUV","Area 16","Area 36",8.69099,11.0317,0,,0,,0,,135,22.37,3.7,3.1,Cash
+2024-02-26,05:20:00,CNR8300585540,"Driver Not Found",455247,eBike,"Area 26","Area 8",0,0,0,,0,,0,,345,0,0,0,UPI
+2024-02-29,16:51:00,CNR7755445590,Success,718931,Auto,"Area 36","Area 37",3.65783,21.4114,0,,0,,0,,773,21.69,3.3,4.1,Cash
+2024-02-26,02:46:00,CNR1999782331,Success,992595,"Prime Sedan","Area 25","Area 27",5.9381,24.6327,0,,0,,0,,372,17.03,4,3.8,UPI
+2024-02-13,12:29:00,CNR9852298564,"Cancelled By Driver",216240,eBike,"Area 2","Area 22",0,0,0,,1,"The customer was coughing/sick",0,,584,0,0,0,Cash
+2024-02-23,10:12:00,CNR1317417877,"Driver Not Found",123079,eBike,"Area 32","Area 13",0,0,0,,0,,0,,932,0,0,0,Cash
+2024-02-15,21:14:00,CNR6066473705,Success,384957,Bike,"Area 38","Area 41",8.84479,18.1169,0,,0,,1,"Vehicle Breakdown",3505,20.08,3.6,4.1,Cash
+2024-02-23,07:43:00,CNR7352467674,Success,589030,Mini,"Area 42","Area 20",13.8746,12.0169,0,,0,,1,"Vehicle Breakdown",265,4.11,4.7,5,Card
+2024-02-06,09:57:00,CNR8074415182,Success,496928,"Prime SUV","Area 24","Area 17",9.52153,16.4479,0,,0,,0,,629,6.19,3.5,4.8,UPI
+2024-02-24,19:31:00,CNR7433778058,Success,142753,"Prime SUV","Area 16","Area 11",12.7716,5.06226,0,,0,,0,,448,10.86,5,4.9,UPI
+2024-02-07,09:43:00,CNR2350152274,Success,227964,"Prime Plus","Area 38","Area 34",13.9722,8.61732,0,,0,,0,,564,9.89,4.3,3.5,Cash
+2024-02-13,00:11:00,CNR4127444804,Success,918495,Auto,"Area 18","Area 21",14.6197,15.0972,0,,0,,0,,276,18.83,3.3,3,Cash
+2024-02-16,03:35:00,CNR9916642746,"Driver Not Found",467091,"Prime Plus","Area 5","Area 43",0,0,0,,0,,0,,449,0,0,0,Cash
+2024-02-27,15:45:00,CNR1688476809,"Cancelled By Driver",399715,eBike,"Area 12","Area 48",0,0,0,,1,"Customer related issue",0,,137,0,0,0,Cash
+2024-02-22,16:32:00,CNR1100487852,"Driver Not Found",179114,Auto,"Area 29","Area 10",0,0,0,,0,,0,,860,0,0,0,UPI
+2024-02-11,03:04:00,CNR2745850863,Success,192639,Mini,"Area 21","Area 30",9.99142,12.7366,0,,0,,0,,574,15.7,3.6,4.4,UPI
+2024-02-29,08:21:00,CNR2410267636,Success,415644,Mini,"Area 33","Area 18",13.7182,20.5723,0,,0,,0,,272,3.83,4.9,3.4,Card
+2024-02-24,06:34:00,CNR8314156693,"Driver Not Found",303148,Mini,"Area 30","Area 22",0,0,0,,0,,0,,401,0,0,0,Card
+2024-02-16,11:33:00,CNR4105441902,Success,160708,Auto,"Area 24","Area 34",4.8305,23.097,0,,0,,0,,4833,22.05,3.9,4.4,Cash
+2024-02-02,03:20:00,CNR2926925616,Success,944201,"Prime Plus","Area 41","Area 29",5.42864,6.65908,0,,0,,0,,387,16.19,3.6,3.9,Cash
+2024-02-25,17:45:00,CNR5306193205,Success,607397,Bike,"Area 19","Area 24",3.63217,9.57357,0,,0,,0,,726,6.25,4.6,3.1,Cash
+2024-02-26,20:16:00,CNR6557096044,"Cancelled By Driver",715926,Mini,"Area 16","Area 10",0,0,0,,1,"More than permitted people in there",0,,109,0,0,0,UPI
+2024-02-05,14:02:00,CNR8705654851,Success,619154,"Prime SUV","Area 32","Area 20",5.97599,12.8918,0,,0,,0,,491,17.98,3,4.4,Cash
+2024-02-09,07:18:00,CNR2254789402,"Cancelled By Driver",628261,Mini,"Area 43","Area 46",0,0,0,,1,"Customer related issue",0,,268,0,0,0,UPI
+2024-02-28,15:21:00,CNR2253756169,"Driver Not Found",520632,"Prime Sedan","Area 43","Area 10",0,0,0,,0,,0,,358,0,0,0,UPI
+2024-02-11,10:56:00,CNR5685187765,Success,739525,"Prime Plus","Area 24","Area 5",14.9355,14.7895,0,,0,,0,,178,8.26,3.9,4.1,Card
+2024-02-09,23:58:00,CNR7151845939,"Cancelled By Driver",937718,Auto,"Area 5","Area 24",0,0,0,,1,"Personal & Car related issues",0,,246,0,0,0,Card
+2024-02-05,18:02:00,CNR1230798770,"Cancelled by Customer",167076,Bike,"Area 8","Area 10",0,0,1,"AC is not working",0,,0,,109,0,0,0,Card
+2024-02-15,13:26:00,CNR4954605099,"Driver Not Found",519143,"Prime Sedan","Area 29","Area 47",0,0,0,,0,,0,,449,0,0,0,UPI
+2024-02-26,01:10:00,CNR2791680068,"Cancelled By Driver",228775,"Prime Sedan","Area 36","Area 50",0,0,0,,1,"More than permitted people in there",0,,357,0,0,0,Card
+2024-02-26,01:10:00,CNR9676821145,Success,671478,Bike,"Area 4","Area 37",4.66618,16.057,0,,0,,0,,324,17.77,4.1,4.3,UPI
+2024-02-23,08:48:00,CNR6513368918,Success,631381,"Prime Plus","Area 21","Area 8",11.3752,17.8767,0,,0,,0,,439,13.27,3,4.6,Card
+2024-02-06,15:00:00,CNR1417926391,Success,101185,Mini,"Area 10","Area 39",12.8602,16.0554,0,,0,,0,,394,22.04,3,3.6,UPI
+2024-02-09,06:27:00,CNR7306162440,"Cancelled By Driver",475514,"Prime Plus","Area 41","Area 48",0,0,0,,1,"The customer was coughing/sick",0,,778,0,0,0,Cash
+2024-02-23,06:47:00,CNR1695108541,Success,839229,"Prime Sedan","Area 37","Area 24",12.01,6.18129,0,,0,,0,,958,7.56,3.6,5,Card
+2024-02-05,00:16:00,CNR5545640033,"Driver Not Found",210694,"Prime Plus","Area 11","Area 42",0,0,0,,0,,0,,876,0,0,0,Cash
+2024-02-23,06:03:00,CNR3637801898,Success,326711,Bike,"Area 15","Area 10",11.3892,16.7224,0,,0,,0,,106,7.78,3.9,3,UPI
+2024-02-16,09:35:00,CNR6173377768,"Cancelled By Driver",723160,Bike,"Area 20","Area 10",0,0,0,,1,"Personal & Car related issues",0,,377,0,0,0,UPI
+2024-02-02,18:34:00,CNR2667081790,Success,239110,"Prime Plus","Area 42","Area 50",13.5096,20.227,0,,0,,0,,391,15.49,4.5,3.4,Cash
+2024-02-03,21:54:00,CNR5668181317,"Driver Not Found",533337,eBike,"Area 10","Area 33",0,0,0,,0,,0,,694,0,0,0,UPI
+2024-02-19,08:07:00,CNR8324155431,"Driver Not Found",308733,Mini,"Area 30","Area 37",0,0,0,,0,,0,,443,0,0,0,UPI
+2024-02-04,21:27:00,CNR3626355189,Success,372901,"Prime SUV","Area 7","Area 24",10.5035,7.09077,0,,0,,0,,377,22.12,3.3,4.9,Card
+2024-02-23,13:54:00,CNR8509501235,Success,845119,eBike,"Area 34","Area 21",10.4557,8.04709,0,,0,,0,,964,19.15,3.6,4.9,Card
+2024-02-03,21:20:00,CNR2468666399,Success,248630,Auto,"Area 48","Area 7",8.73656,17.2023,0,,0,,0,,501,3.93,3.8,3.3,Card
+2024-02-15,19:55:00,CNR8778136066,Success,290053,Mini,"Area 43","Area 8",14.0488,16.0302,0,,0,,0,,131,20.58,4,4.9,Card
+2024-02-21,06:01:00,CNR5993923932,Success,860871,"Prime SUV","Area 21","Area 22",10.611,15.1136,0,,0,,0,,903,14.11,3.4,4.4,UPI
+2024-02-13,18:57:00,CNR6289851892,Success,466720,"Prime Plus","Area 38","Area 1",13.1187,23.8196,0,,0,,1,"Vehicle Breakdown",232,13.62,4.4,4.8,Cash
+2024-02-28,21:37:00,CNR2305640960,Success,108753,Bike,"Area 2","Area 41",6.17398,18.2369,0,,0,,0,,144,21.84,3.7,4.5,UPI
+2024-02-20,02:29:00,CNR1194596603,Success,508825,Mini,"Area 41","Area 33",9.12276,13.4574,0,,0,,0,,445,8.51,4.4,3.6,Cash
+2024-02-13,04:00:00,CNR7522508087,Success,165963,"Prime SUV","Area 16","Area 23",11.4941,23.6303,0,,0,,0,,599,23.95,3.6,3.6,Cash
+2024-02-10,08:09:00,CNR5739415614,Success,611032,"Prime SUV","Area 37","Area 21",3.92526,18.5965,0,,0,,0,,118,4.39,4.7,3.7,UPI
+2024-02-08,07:58:00,CNR2501891379,Success,404429,Bike,"Area 39","Area 39",8.2649,8.83073,0,,0,,0,,858,16.75,4.2,3.4,UPI
+2024-02-04,02:42:00,CNR8733578770,Success,320787,Mini,"Area 14","Area 23",12.0885,6.24179,0,,0,,0,,315,24.81,3.9,3.8,Card
+2024-02-05,12:33:00,CNR1007679724,Success,293638,"Prime Sedan","Area 2","Area 1",6.89107,24.8084,0,,0,,0,,186,10.41,5,3.5,Cash
+2024-02-06,17:49:00,CNR3059970635,Success,655631,"Prime Plus","Area 43","Area 44",4.12787,21.4337,0,,0,,0,,142,13.69,3.7,4.3,Cash
+2024-02-13,20:35:00,CNR3408391857,"Cancelled by Customer",324540,"Prime Plus","Area 40","Area 23",0,0,1,"Wrong Address",0,,0,,345,0,0,0,UPI
+2024-02-17,12:56:00,CNR2390388219,Success,421654,Mini,"Area 8","Area 12",7.998,20.8687,0,,0,,0,,496,24.55,4.7,3.2,Cash
+2024-02-04,11:04:00,CNR3993460290,Success,421871,eBike,"Area 19","Area 45",9.20305,19.2819,0,,0,,0,,322,15.48,3.9,4.6,UPI
+2024-02-17,05:36:00,CNR8397527080,"Cancelled By Driver",552037,Auto,"Area 22","Area 9",0,0,0,,1,"The customer was coughing/sick",0,,237,0,0,0,Cash
+2024-02-02,18:25:00,CNR5507044311,Success,349912,eBike,"Area 2","Area 15",9.28252,20.7656,0,,0,,0,,582,6.06,4.8,3.9,Cash
+2024-02-21,12:14:00,CNR2503378767,Success,181947,Bike,"Area 34","Area 35",6.59391,20.1937,0,,0,,0,,143,8.67,3.8,4.8,Cash
+2024-02-22,02:19:00,CNR3041410793,Success,185696,Bike,"Area 46","Area 17",3.59501,16.9771,0,,0,,0,,534,2.21,4.3,4.9,Cash
+2024-02-23,00:18:00,CNR9894713284,"Cancelled By Driver",420242,"Prime Plus","Area 7","Area 4",0,0,0,,1,"The customer was coughing/sick",0,,227,0,0,0,UPI
+2024-02-15,18:42:00,CNR9382126910,Success,360382,Mini,"Area 20","Area 37",6.11517,23.1753,0,,0,,0,,402,2.52,4.3,3.7,UPI
+2024-02-23,08:18:00,CNR3615211704,"Driver Not Found",304437,Bike,"Area 13","Area 9",0,0,0,,0,,0,,294,0,0,0,Cash
+2024-02-28,02:22:00,CNR5708079057,Success,951687,"Prime Plus","Area 17","Area 43",13.8191,17.5897,0,,0,,0,,796,12.5,4.3,4.1,UPI
+2024-02-26,12:26:00,CNR9310703258,Success,854909,Bike,"Area 43","Area 11",11.2354,23.7648,0,,0,,0,,183,5.58,4.7,3.4,Cash
+2024-02-11,10:28:00,CNR8637068739,Success,200054,"Prime SUV","Area 11","Area 21",9.94469,13.5699,0,,0,,0,,498,7.8,3.9,4,Card
+2024-02-17,20:58:00,CNR6191967387,Success,927644,"Prime SUV","Area 26","Area 25",11.2023,11.6213,0,,0,,0,,996,5.26,3.5,4.2,Card
+2024-02-02,22:05:00,CNR1049610121,Success,600651,"Prime SUV","Area 23","Area 32",3.65864,6.18117,0,,0,,0,,869,4.23,4,4.6,UPI
+2024-02-18,08:11:00,CNR6927558618,Success,535935,Auto,"Area 5","Area 39",6.08817,17.9006,0,,0,,0,,527,24.35,4.7,3.3,Cash
+2024-02-15,11:17:00,CNR6629373647,"Cancelled By Driver",534361,"Prime Plus","Area 34","Area 45",0,0,0,,1,"More than permitted people in there",0,,570,0,0,0,UPI
+2024-02-02,06:43:00,CNR6609436196,Success,107660,"Prime Plus","Area 1","Area 22",11.4498,8.95392,0,,0,,0,,260,20.87,3.4,4.7,UPI
+2024-02-15,18:06:00,CNR1354911109,"Driver Not Found",990959,"Prime Sedan","Area 47","Area 2",0,0,0,,0,,0,,405,0,0,0,Card
+2024-02-09,15:23:00,CNR2306308242,"Driver Not Found",106349,Auto,"Area 15","Area 44",0,0,0,,0,,0,,459,0,0,0,UPI
+2024-02-14,05:23:00,CNR5314089117,"Cancelled By Driver",290501,eBike,"Area 15","Area 12",0,0,0,,1,"Customer related issue",0,,739,0,0,0,Card
+2024-02-14,01:44:00,CNR2471539971,Success,453780,Auto,"Area 27","Area 22",13.3281,24.1345,0,,0,,0,,396,8.61,4.3,4.4,Cash
+2024-02-07,10:30:00,CNR2730871901,Success,632026,"Prime SUV","Area 46","Area 30",10.0408,5.7994,0,,0,,1,"Other Issue",126,16.62,3.5,3.6,UPI
+2024-02-18,14:14:00,CNR9479366926,Success,310564,Bike,"Area 13","Area 9",6.56824,6.24203,0,,0,,0,,905,7.96,5,3.7,UPI
+2024-02-23,08:14:00,CNR5768316795,Success,609285,"Prime Plus","Area 39","Area 50",11.2688,23.1072,0,,0,,0,,347,19.57,3.4,4.1,UPI
+2024-02-23,08:20:00,CNR2940306730,Success,661301,"Prime Plus","Area 7","Area 4",10.4419,24.7686,0,,0,,0,,261,22.73,4.9,4.9,Cash
+2024-02-09,06:47:00,CNR6941071694,"Cancelled By Driver",788076,eBike,"Area 34","Area 25",0,0,0,,1,"Customer related issue",0,,499,0,0,0,Card
+2024-02-16,13:07:00,CNR9575101430,"Driver Not Found",555752,Bike,"Area 14","Area 45",0,0,0,,0,,0,,486,0,0,0,Card
+2024-02-25,13:58:00,CNR7329253715,Success,473704,eBike,"Area 20","Area 21",8.8038,24.1113,0,,0,,0,,302,24.54,3.1,3.5,Card
+2024-02-12,18:51:00,CNR4832774967,"Driver Not Found",839636,Auto,"Area 40","Area 26",0,0,0,,0,,0,,884,0,0,0,UPI
+2024-02-01,07:02:00,CNR7498340217,Success,999598,"Prime Plus","Area 10","Area 21",5.51596,24.2914,0,,0,,0,,142,12.6,4.7,4,Cash
+2024-02-27,14:16:00,CNR1694964629,Success,909350,"Prime Sedan","Area 20","Area 39",10.2908,21.0979,0,,0,,1,"Customer Demand",458,17.33,4.5,3.8,Card
+2024-02-10,20:13:00,CNR4512475841,Success,977849,Bike,"Area 2","Area 5",14.1209,23.5964,0,,0,,0,,267,7.73,3.9,4.1,Card
+2024-02-15,06:00:00,CNR9190599055,"Driver Not Found",222371,eBike,"Area 47","Area 49",0,0,0,,0,,0,,659,0,0,0,Card
+2024-02-16,07:45:00,CNR7746318864,Success,356675,"Prime Sedan","Area 14","Area 18",5.47239,16.0847,0,,0,,0,,607,6.71,3.6,3.8,Cash
+2024-02-12,12:53:00,CNR2420125869,Success,275324,Bike,"Area 17","Area 3",7.4483,11.4618,0,,0,,0,,438,4.76,3.9,4.8,Cash
+2024-02-07,15:07:00,CNR7740398040,"Driver Not Found",589803,Auto,"Area 19","Area 18",0,0,0,,0,,0,,266,0,0,0,Cash
+2024-02-29,04:54:00,CNR5425281183,Success,631014,Mini,"Area 6","Area 4",5.34479,12.1166,0,,0,,0,,123,6.95,4.9,4.8,UPI
+2024-02-20,18:11:00,CNR1211479606,"Cancelled by Customer",891450,"Prime Plus","Area 17","Area 40",0,0,1,"Driver asked to cancel",0,,0,,325,0,0,0,Card
+2024-02-04,18:44:00,CNR6148092954,"Cancelled by Customer",761284,Mini,"Area 26","Area 36",0,0,1,"Wrong Address",0,,0,,328,0,0,0,UPI
+2024-02-28,21:15:00,CNR4118096062,Success,649301,eBike,"Area 1","Area 30",3.7276,12.3253,0,,0,,0,,2998,5.73,3.9,4.9,Cash
+2024-02-01,06:28:00,CNR7013268661,"Cancelled by Customer",599868,Auto,"Area 8","Area 43",0,0,1,"Wrong Address",0,,0,,474,0,0,0,Card
+2024-02-28,15:40:00,CNR6700315624,Success,795581,Auto,"Area 31","Area 30",3.55242,23.7198,0,,0,,0,,363,8.22,4.8,3.3,Cash
+2024-02-05,06:50:00,CNR9780942073,"Cancelled By Driver",405803,Bike,"Area 35","Area 6",0,0,0,,1,"The customer was coughing/sick",0,,841,0,0,0,UPI
+2024-02-12,12:07:00,CNR1303420868,"Driver Not Found",718371,eBike,"Area 1","Area 2",0,0,0,,0,,0,,311,0,0,0,Cash
+2024-02-26,09:15:00,CNR4825495560,Success,603312,eBike,"Area 33","Area 2",7.17347,11.8731,0,,0,,0,,253,23.41,3.9,3.7,UPI
+2024-02-24,08:29:00,CNR9581553060,Success,219737,"Prime Sedan","Area 19","Area 10",8.38526,23.011,0,,0,,0,,878,14.9,4.5,3.4,Cash
+2024-02-11,10:23:00,CNR4471393405,Success,786189,Bike,"Area 12","Area 15",3.07859,22.6254,0,,0,,0,,2513,5.08,3.7,4.4,Cash
+2024-02-11,14:08:00,CNR2977446770,Success,381600,"Prime Sedan","Area 41","Area 27",13.3218,16.5575,0,,0,,0,,367,4.73,4,3.6,Cash
+2024-02-08,19:25:00,CNR4630972514,"Cancelled By Driver",403752,eBike,"Area 38","Area 35",0,0,0,,1,"More than permitted people in there",0,,124,0,0,0,Cash
+2024-02-12,14:33:00,CNR8781165661,Success,329721,eBike,"Area 46","Area 36",6.13513,16.0277,0,,0,,0,,364,10.62,3.4,4.2,Card
+2024-02-28,19:10:00,CNR5508230937,Success,817142,"Prime Plus","Area 29","Area 42",5.05541,16.8111,0,,0,,0,,151,12.73,4.4,3.4,Card
+2024-02-29,18:51:00,CNR1844033674,Success,559309,Bike,"Area 41","Area 34",9.72487,20.4836,0,,0,,0,,288,11.69,4.5,4.5,Cash
+2024-02-04,11:01:00,CNR9204358140,"Driver Not Found",711940,"Prime SUV","Area 48","Area 36",0,0,0,,0,,0,,355,0,0,0,Cash
+2024-02-15,18:58:00,CNR7979316874,Success,413651,Auto,"Area 45","Area 14",13.2772,12.6366,0,,0,,0,,140,21.64,3.9,3.3,Cash
+2024-02-19,19:25:00,CNR5380905297,Success,173506,"Prime Plus","Area 5","Area 11",10.4226,20.112,0,,0,,0,,219,21.78,3.2,4.7,Card
+2024-02-26,13:16:00,CNR1835888554,"Cancelled by Customer",732328,Mini,"Area 8","Area 26",0,0,1,"Wrong Address",0,,0,,379,0,0,0,Cash
+2024-02-15,01:49:00,CNR8280658968,Success,158023,Mini,"Area 9","Area 13",9.69749,21.8374,0,,0,,1,"Vehicle Breakdown",671,7.8,3.3,3.7,UPI
+2024-02-14,18:58:00,CNR9431258749,Success,147483,Auto,"Area 17","Area 11",14.3101,10.739,0,,0,,0,,337,5.2,3.2,4.6,UPI
+2024-02-17,08:38:00,CNR8402916996,"Cancelled By Driver",517141,"Prime Plus","Area 21","Area 1",0,0,0,,1,"The customer was coughing/sick",0,,396,0,0,0,Cash
+2024-02-25,03:35:00,CNR2266330500,Success,578733,Mini,"Area 27","Area 32",11.4412,11.7129,0,,0,,0,,259,14.45,3.7,4.8,Cash
+2024-02-14,18:24:00,CNR3803979739,Success,738649,Mini,"Area 3","Area 24",9.87146,10.4551,0,,0,,0,,126,21.94,5,3.4,UPI
+2024-02-10,06:21:00,CNR4847666717,"Driver Not Found",601244,Auto,"Area 19","Area 21",0,0,0,,0,,0,,379,0,0,0,Cash
+2024-02-28,00:01:00,CNR4409419778,Success,458835,"Prime SUV","Area 41","Area 29",13.2013,21.9319,0,,0,,0,,922,23.99,4.8,4.9,Card
+2024-02-16,03:34:00,CNR5914334332,"Cancelled By Driver",550320,Mini,"Area 22","Area 37",0,0,0,,1,"More than permitted people in there",0,,478,0,0,0,UPI
+2024-02-06,19:18:00,CNR1332737500,"Cancelled by Customer",448447,Auto,"Area 20","Area 25",0,0,1,"Wrong Address",0,,0,,2752,0,0,0,Cash
+2024-02-22,10:50:00,CNR2832596812,Success,865290,eBike,"Area 41","Area 16",4.6648,8.31851,0,,0,,0,,105,2.3,4.7,3.4,UPI
+2024-02-27,00:40:00,CNR8251597048,Success,680185,"Prime Sedan","Area 44","Area 22",13.4644,6.64512,0,,0,,0,,999,6.29,4,4.7,Cash
+2024-02-27,07:25:00,CNR3402232835,"Cancelled By Driver",246491,"Prime Plus","Area 36","Area 50",0,0,0,,1,"More than permitted people in there",0,,794,0,0,0,Cash
+2024-02-04,02:16:00,CNR4824458284,Success,489409,Bike,"Area 33","Area 20",12.2026,16.9527,0,,0,,1,"Vehicle Breakdown",524,18.35,3.1,4.5,Cash
+2024-02-06,13:02:00,CNR4861479183,Success,862885,"Prime Sedan","Area 35","Area 9",13.8956,9.60964,0,,0,,0,,114,15.43,3.1,4.7,Card
+2024-02-16,15:50:00,CNR1921049689,"Cancelled by Customer",437520,"Prime SUV","Area 49","Area 8",0,0,1,"Change of plans",0,,0,,620,0,0,0,Card
+2024-02-22,15:44:00,CNR8866870131,Success,210006,Bike,"Area 49","Area 20",7.66695,8.56543,0,,0,,0,,595,3.06,4.9,4.7,Cash
+2024-02-09,18:31:00,CNR7775867975,Success,242679,Mini,"Area 48","Area 36",4.92743,5.5438,0,,0,,0,,250,23.93,3.7,4.4,Card
+2024-02-06,13:39:00,CNR1327497682,Success,815040,Bike,"Area 39","Area 26",7.79869,10.3625,0,,0,,0,,500,4.32,3.1,4.9,Card
+2024-02-20,06:22:00,CNR1873840537,"Cancelled By Driver",380350,Bike,"Area 38","Area 20",0,0,0,,1,"More than permitted people in there",0,,384,0,0,0,Cash
+2024-02-24,18:48:00,CNR4321740736,Success,847351,"Prime Sedan","Area 40","Area 16",4.74436,21.7112,0,,0,,0,,505,22.11,4.9,4.9,UPI
+2024-02-21,14:14:00,CNR9126094628,Success,105710,Mini,"Area 37","Area 29",6.74287,13.5532,0,,0,,0,,109,9.14,4.4,3.7,Card
+2024-02-27,02:02:00,CNR5395299549,Success,718720,Mini,"Area 50","Area 33",6.90645,7.22032,0,,0,,0,,780,9.97,3.6,3.9,Cash
+2024-02-26,01:55:00,CNR5773615496,"Cancelled By Driver",690150,eBike,"Area 49","Area 26",0,0,0,,1,"Personal & Car related issues",0,,248,0,0,0,Cash
+2024-02-22,10:31:00,CNR2907290344,Success,282859,"Prime Sedan","Area 8","Area 1",5.64167,24.8374,0,,0,,0,,398,24.51,3.5,3.6,Cash
+2024-02-01,02:37:00,CNR2938603983,Success,552775,"Prime Plus","Area 35","Area 35",11.359,10.7309,0,,0,,0,,419,15.44,3.9,3.7,Cash
+2024-02-04,04:38:00,CNR4689768909,"Cancelled By Driver",898267,Bike,"Area 39","Area 1",0,0,0,,1,"Customer related issue",0,,287,0,0,0,Cash
+2024-02-04,21:17:00,CNR8733270299,Success,265865,eBike,"Area 30","Area 40",11.7262,18.4568,0,,0,,0,,432,17.92,3.5,4.1,UPI
+2024-02-22,20:21:00,CNR1045189227,"Cancelled By Driver",434655,"Prime SUV","Area 14","Area 3",0,0,0,,1,"More than permitted people in there",0,,313,0,0,0,Cash
+2024-02-16,00:49:00,CNR3413472968,Success,554135,"Prime Plus","Area 6","Area 25",9.90303,19.5189,0,,0,,1,"Customer Demand",120,21.24,4.7,4.8,Cash
+2024-02-13,23:04:00,CNR4259572285,Success,417396,"Prime Sedan","Area 5","Area 50",13.7505,6.79629,0,,0,,0,,763,16.72,4.3,3.8,Cash
+2024-02-09,00:45:00,CNR9883708259,Success,360090,Mini,"Area 31","Area 18",3.89388,23.4668,0,,0,,0,,963,20.75,4.5,4.3,Cash
+2024-02-11,10:51:00,CNR4495327266,"Cancelled By Driver",408989,Mini,"Area 45","Area 41",0,0,0,,1,"Personal & Car related issues",0,,123,0,0,0,Card
+2024-02-25,17:51:00,CNR7648949386,Success,679044,"Prime SUV","Area 45","Area 21",7.17583,20.8336,0,,0,,0,,108,17.13,5,4.1,Cash
+2024-02-12,15:51:00,CNR2069492599,Success,578077,Auto,"Area 13","Area 40",10.2611,15.8341,0,,0,,0,,255,6.96,4.9,3.7,Cash
+2024-02-29,14:45:00,CNR4732767852,Success,576789,Bike,"Area 41","Area 1",5.62358,5.80463,0,,0,,0,,490,6.23,4.3,4.3,Card
+2024-02-16,02:25:00,CNR9443432990,"Cancelled By Driver",443861,Auto,"Area 21","Area 46",0,0,0,,1,"More than permitted people in there",0,,950,0,0,0,Cash
+2024-02-14,10:03:00,CNR7396468505,"Driver Not Found",201986,"Prime SUV","Area 24","Area 3",0,0,0,,0,,0,,132,0,0,0,Cash
+2024-02-23,20:57:00,CNR9773978436,"Driver Not Found",636425,Mini,"Area 6","Area 42",0,0,0,,0,,0,,738,0,0,0,UPI
+2024-02-23,15:46:00,CNR5845441902,Success,873748,eBike,"Area 24","Area 20",9.84945,17.825,0,,0,,0,,253,15.81,4.7,4,UPI
+2024-02-09,17:09:00,CNR4765098674,"Driver Not Found",819674,Auto,"Area 18","Area 27",0,0,0,,0,,0,,306,0,0,0,UPI
+2024-02-05,23:07:00,CNR5861705029,"Driver Not Found",212908,"Prime SUV","Area 39","Area 15",0,0,0,,0,,0,,268,0,0,0,Cash
+2024-02-15,09:38:00,CNR9172982271,"Cancelled by Customer",803307,Bike,"Area 23","Area 35",0,0,1,"Change of plans",0,,0,,349,0,0,0,UPI
+2024-02-07,07:02:00,CNR7316711550,Success,523388,Bike,"Area 20","Area 30",10.7928,15.4568,0,,0,,0,,781,8.04,3.5,4.6,Card
+2024-02-10,11:53:00,CNR7070091012,"Cancelled By Driver",950978,"Prime Plus","Area 17","Area 30",0,0,0,,1,"Personal & Car related issues",0,,252,0,0,0,Cash
+2024-02-27,12:48:00,CNR5288121097,Success,774564,Auto,"Area 29","Area 19",5.64492,5.37168,0,,0,,0,,897,10.07,3.4,4.6,UPI
+2024-02-19,02:36:00,CNR6074959269,Success,844948,Mini,"Area 32","Area 37",6.12791,6.65057,0,,0,,0,,479,20.07,3.6,3,Cash
+2024-02-20,11:36:00,CNR9922163794,"Cancelled by Customer",707430,eBike,"Area 9","Area 20",0,0,1,"AC is not working",0,,0,,649,0,0,0,Cash
+2024-02-19,22:00:00,CNR8202870452,"Driver Not Found",756234,Mini,"Area 27","Area 40",0,0,0,,0,,0,,205,0,0,0,Cash
+2024-02-14,01:23:00,CNR4190538675,"Cancelled By Driver",121386,Auto,"Area 25","Area 25",0,0,0,,1,"The customer was coughing/sick",0,,469,0,0,0,Cash
+2024-02-24,14:05:00,CNR6965371808,Success,688654,Auto,"Area 45","Area 48",5.16399,18.2467,0,,0,,0,,419,16.82,4.3,3.1,UPI
+2024-02-23,02:34:00,CNR6901643728,"Driver Not Found",911364,Bike,"Area 34","Area 18",0,0,0,,0,,0,,379,0,0,0,Card
+2024-02-09,07:16:00,CNR2877004246,"Driver Not Found",605722,Bike,"Area 41","Area 30",0,0,0,,0,,0,,164,0,0,0,Cash
+2024-02-20,22:55:00,CNR8240666476,"Driver Not Found",261601,"Prime Sedan","Area 21","Area 17",0,0,0,,0,,0,,103,0,0,0,Cash
+2024-02-29,20:38:00,CNR8231589822,"Driver Not Found",704823,"Prime Sedan","Area 6","Area 16",0,0,0,,0,,0,,927,0,0,0,Cash
+2024-02-25,15:11:00,CNR2428191936,Success,475948,"Prime Sedan","Area 12","Area 27",8.95391,20.5811,0,,0,,0,,438,15.82,4.1,3.7,Card
+2024-02-19,16:06:00,CNR9256868907,Success,744826,Mini,"Area 4","Area 37",7.83333,16.4674,0,,0,,0,,508,6.53,4.6,4.1,UPI
+2024-02-07,11:57:00,CNR6336190017,"Driver Not Found",996101,Bike,"Area 36","Area 31",0,0,0,,0,,0,,250,0,0,0,UPI
+2024-02-09,16:37:00,CNR3639340619,Success,316463,Bike,"Area 1","Area 23",5.4458,16.4031,0,,0,,0,,187,10.64,3.1,4.3,Cash
+2024-02-07,11:31:00,CNR8750127111,"Cancelled By Driver",948015,Auto,"Area 30","Area 1",0,0,0,,1,"Personal & Car related issues",0,,350,0,0,0,Card
+2024-02-25,09:11:00,CNR2991778763,Success,229278,Bike,"Area 47","Area 39",11.3934,20.8325,0,,0,,0,,576,7.16,3.4,4.3,UPI
+2024-02-29,17:27:00,CNR4661814005,"Cancelled By Driver",452226,Mini,"Area 26","Area 24",0,0,0,,1,"More than permitted people in there",0,,180,0,0,0,UPI
+2024-02-06,10:48:00,CNR7768000027,"Driver Not Found",669894,Auto,"Area 19","Area 45",0,0,0,,0,,0,,981,0,0,0,Card
+2024-02-22,18:39:00,CNR5127997687,"Cancelled By Driver",198521,"Prime Plus","Area 26","Area 19",0,0,0,,1,"Personal & Car related issues",0,,973,0,0,0,Cash
+2024-02-05,06:35:00,CNR9687072116,Success,102864,"Prime SUV","Area 19","Area 20",4.53998,21.5533,0,,0,,0,,565,24.62,3.5,4.5,UPI
+2024-02-26,23:35:00,CNR2081788725,"Cancelled By Driver",938303,eBike,"Area 48","Area 7",0,0,0,,1,"Customer related issue",0,,112,0,0,0,Card
+2024-02-04,12:16:00,CNR3231498517,"Cancelled By Driver",728024,Bike,"Area 36","Area 3",0,0,0,,1,"Personal & Car related issues",0,,366,0,0,0,Card
+2024-02-01,20:36:00,CNR1685206381,Success,792323,Mini,"Area 38","Area 8",4.26318,12.423,0,,0,,0,,900,9.96,3.5,3.4,Card
+2024-02-26,21:43:00,CNR9563045444,Success,182329,"Prime SUV","Area 50","Area 19",3.00091,11.5546,0,,0,,0,,371,12.33,3.2,4.3,Card
+2024-02-27,12:46:00,CNR9346483492,Success,744428,"Prime SUV","Area 42","Area 3",4.30222,23.3152,0,,0,,0,,707,7.58,3.3,4.4,UPI
+2024-02-09,15:08:00,CNR6646379124,Success,382794,eBike,"Area 29","Area 45",3.05655,12.2438,0,,0,,0,,912,2.45,3.7,3.4,Cash
+2024-02-04,23:21:00,CNR2114392773,Success,765546,Bike,"Area 45","Area 25",7.10015,11.0595,0,,0,,0,,143,22.65,4.2,4.6,Cash
+2024-02-02,05:07:00,CNR2095508930,Success,886582,Auto,"Area 26","Area 46",11.1536,19.6111,0,,0,,0,,838,13.14,3.7,4.5,Cash
+2024-02-22,12:17:00,CNR4244474095,"Driver Not Found",186736,Auto,"Area 32","Area 42",0,0,0,,0,,0,,253,0,0,0,UPI
+2024-02-28,17:58:00,CNR1533231100,"Driver Not Found",551221,Bike,"Area 44","Area 47",0,0,0,,0,,0,,929,0,0,0,UPI
+2024-02-21,19:14:00,CNR9289834895,"Cancelled by Customer",358930,"Prime Sedan","Area 26","Area 24",0,0,1,"AC is not working",0,,0,,336,0,0,0,UPI
+2024-02-10,12:16:00,CNR5338227986,Success,501470,Auto,"Area 14","Area 8",12.3204,17.8496,0,,0,,0,,696,20.15,3.9,4.9,Cash
+2024-02-01,01:12:00,CNR5817827115,Success,678683,"Prime SUV","Area 29","Area 36",7.57623,22.5772,0,,0,,0,,491,4.31,4.2,3.3,UPI
+2024-02-20,00:59:00,CNR9780370357,Success,835126,"Prime SUV","Area 50","Area 41",7.03387,23.8492,0,,0,,0,,140,8.8,4.8,4.9,Card
+2024-02-02,09:11:00,CNR7808509805,Success,345326,Bike,"Area 21","Area 6",10.083,11.8492,0,,0,,0,,870,20.74,3.9,4.9,Cash
+2024-02-18,14:43:00,CNR8190867775,Success,923050,Auto,"Area 22","Area 6",12.3171,15.7404,0,,0,,0,,196,11.89,3.8,4.8,UPI
+2024-02-28,13:14:00,CNR7393706510,"Cancelled By Driver",325521,"Prime Sedan","Area 17","Area 5",0,0,0,,1,"Personal & Car related issues",0,,668,0,0,0,Cash
+2024-02-05,02:54:00,CNR4039982275,"Cancelled By Driver",507556,Bike,"Area 50","Area 25",0,0,0,,1,"The customer was coughing/sick",0,,722,0,0,0,Card
+2024-02-20,04:34:00,CNR8828985368,"Cancelled By Driver",163563,Bike,"Area 43","Area 49",0,0,0,,1,"Customer related issue",0,,674,0,0,0,Cash
+2024-02-17,06:52:00,CNR8081389961,"Driver Not Found",432199,Auto,"Area 45","Area 20",0,0,0,,0,,0,,899,0,0,0,Cash
+2024-02-20,07:59:00,CNR7773666311,Success,689563,Mini,"Area 42","Area 45",8.29162,10.8986,0,,0,,0,,437,12.34,4,3.7,Cash
+2024-02-16,00:36:00,CNR9450974150,Success,771926,Bike,"Area 8","Area 35",5.85462,23.8177,0,,0,,0,,218,15.04,4.2,3.4,Card
+2024-02-03,15:10:00,CNR7768761521,"Driver Not Found",588490,Bike,"Area 7","Area 38",0,0,0,,0,,0,,440,0,0,0,Cash
+2024-02-15,07:19:00,CNR6621434814,Success,872430,"Prime Sedan","Area 32","Area 15",10.9699,9.55264,0,,0,,0,,799,7.31,4.9,4.9,Card
+2024-02-03,12:26:00,CNR7892498748,"Cancelled by Customer",641355,"Prime Plus","Area 34","Area 15",0,0,1,"Wrong Address",0,,0,,333,0,0,0,Card
+2024-02-04,15:28:00,CNR6997579048,"Driver Not Found",612399,Auto,"Area 22","Area 17",0,0,0,,0,,0,,347,0,0,0,Cash
+2024-02-13,09:00:00,CNR8238087631,Success,273357,Auto,"Area 4","Area 24",6.10662,7.17468,0,,0,,0,,327,6.58,4,3.6,Cash
+2024-02-23,17:21:00,CNR4283163873,Success,474004,eBike,"Area 8","Area 49",6.83781,12.6632,0,,0,,0,,102,4.9,3.1,3.2,UPI
+2024-02-13,18:18:00,CNR6663946912,Success,111904,"Prime Sedan","Area 45","Area 18",4.17308,14.3969,0,,0,,0,,274,15.95,4.7,3.3,UPI
+2024-02-28,13:03:00,CNR5509445022,Success,262054,Mini,"Area 38","Area 16",11.4125,6.86301,0,,0,,0,,639,15.83,4.4,4.5,UPI
+2024-02-10,19:17:00,CNR8330403159,Success,663473,Mini,"Area 35","Area 1",14.4056,21.1892,0,,0,,0,,357,22.23,4.6,4.1,Cash
+2024-02-11,11:59:00,CNR8670069923,"Driver Not Found",711748,Mini,"Area 40","Area 17",0,0,0,,0,,0,,157,0,0,0,Cash
+2024-02-19,19:34:00,CNR4655323187,"Cancelled By Driver",981065,eBike,"Area 42","Area 25",0,0,0,,1,"Personal & Car related issues",0,,807,0,0,0,Card
+2024-02-18,02:41:00,CNR4432523221,"Cancelled By Driver",318603,"Prime Plus","Area 28","Area 6",0,0,0,,1,"Personal & Car related issues",0,,260,0,0,0,Cash
+2024-02-07,20:54:00,CNR9478890560,Success,478677,"Prime Plus","Area 1","Area 21",6.41478,7.63949,0,,0,,0,,439,24.79,3.3,3.5,Card
+2024-02-21,00:20:00,CNR1863772975,"Cancelled By Driver",915190,"Prime SUV","Area 8","Area 5",0,0,0,,1,"Personal & Car related issues",0,,780,0,0,0,Card
+2024-02-20,00:13:00,CNR7218998013,Success,224671,Bike,"Area 21","Area 15",6.86191,10.1274,0,,0,,0,,206,14.29,4.2,3.4,Cash
+2024-02-03,07:31:00,CNR6377129474,Success,533209,Bike,"Area 1","Area 39",5.87738,6.01315,0,,0,,0,,329,13.54,3.5,3.7,UPI
+2024-02-03,09:06:00,CNR8194074209,Success,967793,"Prime Plus","Area 37","Area 39",4.45707,7.78505,0,,0,,0,,139,19.4,4.5,3.5,Cash
+2024-02-01,12:57:00,CNR1581794728,"Cancelled By Driver",932587,Auto,"Area 3","Area 13",0,0,0,,1,"Customer related issue",0,,294,0,0,0,UPI
+2024-02-01,16:37:00,CNR5928554403,Success,800863,"Prime SUV","Area 18","Area 8",12.9552,7.04765,0,,0,,1,"Vehicle Breakdown",193,10.05,4.4,4.3,Cash
+2024-02-10,07:39:00,CNR2055294163,Success,930599,Auto,"Area 47","Area 34",13.0137,14.8666,0,,0,,0,,821,8.04,3.2,3.5,Card
+2024-02-20,04:02:00,CNR4003688831,"Cancelled By Driver",353854,"Prime SUV","Area 31","Area 49",0,0,0,,1,"Customer related issue",0,,693,0,0,0,Cash
+2024-02-20,03:00:00,CNR4417791021,Success,435847,Auto,"Area 26","Area 32",10.1986,23.2948,0,,0,,0,,390,10.49,4.3,3.8,UPI
+2024-02-08,06:12:00,CNR5042302424,Success,733266,"Prime Sedan","Area 9","Area 25",9.47826,12.8902,0,,0,,0,,253,6.03,3.3,4.5,Cash
+2024-02-24,01:23:00,CNR3150443305,"Driver Not Found",454577,Auto,"Area 37","Area 3",0,0,0,,0,,0,,401,0,0,0,Cash
+2024-02-04,23:09:00,CNR5544932184,"Driver Not Found",420896,Auto,"Area 32","Area 16",0,0,0,,0,,0,,374,0,0,0,Cash
+2024-02-29,15:00:00,CNR8179018767,Success,753582,Auto,"Area 47","Area 34",11.2352,10.6803,0,,0,,0,,442,14.88,3.2,3.8,UPI
+2024-02-26,23:12:00,CNR5239215469,Success,825160,"Prime Sedan","Area 10","Area 47",10.0585,6.45295,0,,0,,0,,720,8.3,3.7,4.9,UPI
+2024-02-03,08:32:00,CNR3561583702,Success,311765,"Prime Plus","Area 7","Area 25",14.1666,6.40119,0,,0,,0,,338,15.27,5,3.6,UPI
+2024-02-19,11:36:00,CNR3179035749,"Cancelled By Driver",423556,"Prime SUV","Area 8","Area 21",0,0,0,,1,"The customer was coughing/sick",0,,177,0,0,0,Cash
+2024-02-28,16:01:00,CNR6253332649,Success,323862,Mini,"Area 29","Area 22",8.60408,24.745,0,,0,,0,,433,11.27,4.7,4.6,Cash
+2024-02-14,15:50:00,CNR4121281153,Success,817587,eBike,"Area 31","Area 28",8.09618,15.3463,0,,0,,0,,933,17.64,4.4,3,UPI
+2024-02-15,02:58:00,CNR5456348436,"Cancelled By Driver",186837,Mini,"Area 39","Area 47",0,0,0,,1,"More than permitted people in there",0,,766,0,0,0,UPI
+2024-02-17,17:45:00,CNR9135778316,Success,293640,"Prime Sedan","Area 31","Area 22",7.58535,17.9364,0,,0,,0,,388,10.51,3.1,3,UPI
+2024-02-27,00:01:00,CNR1461992772,"Cancelled By Driver",133572,Bike,"Area 45","Area 32",0,0,0,,1,"The customer was coughing/sick",0,,109,0,0,0,UPI
+2024-02-21,10:33:00,CNR8885754378,Success,977225,eBike,"Area 48","Area 9",3.34025,17.2372,0,,0,,0,,889,18.84,4.7,4.4,UPI
+2024-02-20,08:00:00,CNR3153130128,"Driver Not Found",131116,Mini,"Area 46","Area 10",0,0,0,,0,,0,,117,0,0,0,Card
+2024-02-05,02:27:00,CNR5954539175,Success,155483,Mini,"Area 28","Area 24",5.82154,9.64849,0,,0,,0,,645,6.93,3.7,4.6,Card
+2024-02-13,07:44:00,CNR6596793626,Success,386946,"Prime Plus","Area 29","Area 30",6.1822,9.46228,0,,0,,0,,775,18.77,3.3,4.9,Cash
+2024-02-03,19:44:00,CNR6431319719,Success,404855,"Prime Plus","Area 20","Area 2",9.64128,16.3136,0,,0,,0,,320,24.19,3.5,3.6,Card
+2024-02-12,19:59:00,CNR4202706506,"Driver Not Found",316781,"Prime Plus","Area 31","Area 45",0,0,0,,0,,0,,931,0,0,0,Cash
+2024-02-24,00:49:00,CNR1294700360,"Cancelled By Driver",917202,Bike,"Area 29","Area 23",0,0,0,,1,"Personal & Car related issues",0,,267,0,0,0,UPI
+2024-02-18,08:06:00,CNR4810650185,Success,945850,"Prime Sedan","Area 48","Area 4",12.0669,6.88213,0,,0,,1,"Customer Demand",317,7,3.3,3.9,UPI
+2024-02-23,17:36:00,CNR9710226411,"Driver Not Found",537665,"Prime Sedan","Area 4","Area 8",0,0,0,,0,,0,,336,0,0,0,Cash
+2024-02-23,02:29:00,CNR9909252763,Success,588346,"Prime SUV","Area 13","Area 44",11.6382,9.55825,0,,0,,0,,149,8.97,4.7,3.8,UPI
+2024-02-05,17:34:00,CNR9226108301,Success,951941,"Prime SUV","Area 33","Area 32",9.08337,12.4938,0,,0,,0,,762,3.04,3.7,3.9,Card
+2024-02-26,11:04:00,CNR6356301590,"Cancelled by Customer",544414,Auto,"Area 47","Area 44",0,0,1,"Driver asked to cancel",0,,0,,310,0,0,0,UPI
+2024-02-05,03:06:00,CNR8198006140,"Cancelled By Driver",170083,Bike,"Area 37","Area 19",0,0,0,,1,"Customer related issue",0,,746,0,0,0,Cash
+2024-02-04,14:32:00,CNR8506651100,Success,408416,"Prime SUV","Area 15","Area 27",7.8462,7.79468,0,,0,,0,,868,10.17,3,3.7,UPI
+2024-02-21,01:45:00,CNR8062919669,"Driver Not Found",740074,Mini,"Area 36","Area 4",0,0,0,,0,,0,,446,0,0,0,Card
+2024-02-12,04:43:00,CNR9907297376,"Cancelled By Driver",179993,Bike,"Area 14","Area 38",0,0,0,,1,"More than permitted people in there",0,,391,0,0,0,Cash
+2024-02-08,23:57:00,CNR1005337780,"Driver Not Found",305646,eBike,"Area 20","Area 25",0,0,0,,0,,0,,888,0,0,0,UPI
+2024-02-27,18:48:00,CNR1695681166,Success,240740,Mini,"Area 31","Area 47",12.9237,7.42262,0,,0,,0,,695,11.77,3.1,4.4,UPI
+2024-02-22,13:38:00,CNR1252154499,"Cancelled By Driver",503321,Auto,"Area 30","Area 20",0,0,0,,1,"The customer was coughing/sick",0,,138,0,0,0,Cash
+2024-02-15,21:01:00,CNR3560018126,Success,996635,Mini,"Area 20","Area 49",9.85268,24.182,0,,0,,0,,140,16.61,4.1,4.3,UPI
+2024-02-17,17:45:00,CNR3944050280,"Driver Not Found",991689,eBike,"Area 48","Area 4",0,0,0,,0,,0,,217,0,0,0,UPI
+2024-02-19,23:39:00,CNR7196764886,Success,930817,Bike,"Area 46","Area 50",8.5098,13.5368,0,,0,,0,,238,5.91,4.7,4.8,Cash
+2024-02-15,17:37:00,CNR3342693258,Success,580375,Bike,"Area 29","Area 28",7.60996,20.05,0,,0,,0,,434,12.09,3.7,4.5,Cash
+2024-02-05,04:55:00,CNR1572685616,Success,228104,Mini,"Area 32","Area 46",12.8367,19.1761,0,,0,,0,,969,12.54,3.5,3.6,UPI
+2024-02-11,01:20:00,CNR3832266154,"Cancelled By Driver",286888,Bike,"Area 4","Area 41",0,0,0,,1,"Personal & Car related issues",0,,241,0,0,0,Card
+2024-02-06,16:41:00,CNR7232935724,Success,426307,Bike,"Area 48","Area 38",10.7433,10.2238,0,,0,,0,,214,19.64,4.9,5,Cash
+2024-02-08,18:17:00,CNR7522979532,Success,475046,"Prime SUV","Area 24","Area 36",3.35766,10.1329,0,,0,,0,,104,12.54,3.8,3.4,Card
+2024-02-27,23:01:00,CNR7433130022,Success,379573,"Prime Sedan","Area 9","Area 20",7.59316,22.8474,0,,0,,0,,763,3.78,4.7,3,Card
+2024-02-01,14:41:00,CNR9924176694,Success,314401,"Prime Plus","Area 21","Area 21",4.87638,15.0151,0,,0,,0,,851,6.54,4.9,4.5,Cash
+2024-02-11,21:24:00,CNR9617022153,Success,770562,Auto,"Area 31","Area 27",6.69139,24.964,0,,0,,0,,276,10.9,4.2,3.7,UPI
+2024-02-18,11:10:00,CNR1353994583,"Cancelled by Customer",817292,"Prime Plus","Area 12","Area 48",0,0,1,"AC is not working",0,,0,,259,0,0,0,UPI
+2024-02-25,02:45:00,CNR7701856266,Success,698482,"Prime Plus","Area 46","Area 26",9.17008,21.5692,0,,0,,0,,436,20.84,4.5,4.9,UPI
+2024-02-01,14:46:00,CNR7136662590,Success,950337,Bike,"Area 2","Area 30",11.3912,17.3599,0,,0,,0,,746,18.12,4,3,Cash
+2024-02-02,01:48:00,CNR7096386979,Success,418999,eBike,"Area 48","Area 18",6.7846,11.9382,0,,0,,0,,364,15.22,4,4.4,UPI
+2024-02-08,06:49:00,CNR4942547369,"Driver Not Found",365666,Bike,"Area 18","Area 30",0,0,0,,0,,0,,144,0,0,0,Cash
+2024-02-15,19:13:00,CNR3705871540,"Driver Not Found",483494,eBike,"Area 19","Area 21",0,0,0,,0,,0,,366,0,0,0,UPI
+2024-02-24,14:32:00,CNR3297554359,Success,311641,Auto,"Area 18","Area 37",6.2872,10.3026,0,,0,,0,,316,23.35,4.1,4.5,Card
+2024-02-21,20:46:00,CNR2924584988,Success,412719,Mini,"Area 33","Area 8",3.91659,8.85102,0,,0,,0,,167,8.27,4.2,3.3,Cash
+2024-02-23,02:56:00,CNR2262773162,"Cancelled by Customer",510200,"Prime SUV","Area 14","Area 4",0,0,1,"AC is not working",0,,0,,478,0,0,0,Cash
+2024-02-28,08:02:00,CNR4528814819,"Cancelled By Driver",774678,"Prime SUV","Area 15","Area 36",0,0,0,,1,"Customer related issue",0,,361,0,0,0,Cash
+2024-02-24,23:47:00,CNR4111221457,"Cancelled By Driver",936433,Bike,"Area 27","Area 33",0,0,0,,1,"Customer related issue",0,,200,0,0,0,Cash
+2024-02-27,06:53:00,CNR3031357858,Success,947959,Mini,"Area 17","Area 11",10.3052,19.5787,0,,0,,0,,356,12.72,3.5,4.6,Card
+2024-02-20,12:00:00,CNR6237500354,"Driver Not Found",186602,"Prime Plus","Area 21","Area 11",0,0,0,,0,,0,,275,0,0,0,Cash
+2024-02-08,06:02:00,CNR9185687559,"Driver Not Found",832995,"Prime Sedan","Area 37","Area 19",0,0,0,,0,,0,,480,0,0,0,Cash
+2024-02-16,04:07:00,CNR7411638613,Success,992850,eBike,"Area 36","Area 14",8.88033,18.4367,0,,0,,0,,103,3.95,4.7,4.1,Cash
+2024-02-26,14:07:00,CNR6036793019,Success,426580,"Prime Sedan","Area 14","Area 48",5.19447,7.39578,0,,0,,0,,214,4,4.5,3.4,Cash
+2024-02-18,05:33:00,CNR4776474169,"Cancelled By Driver",930224,"Prime Plus","Area 14","Area 23",0,0,0,,1,"Customer related issue",0,,731,0,0,0,Card
+2024-02-22,04:41:00,CNR1926473869,"Cancelled By Driver",784075,Mini,"Area 3","Area 6",0,0,0,,1,"The customer was coughing/sick",0,,188,0,0,0,UPI
+2024-02-27,14:26:00,CNR5951379661,Success,269969,Mini,"Area 1","Area 50",12.0707,20.9436,0,,0,,0,,306,16.37,4.9,4.7,UPI
+2024-02-11,19:27:00,CNR9268057188,"Cancelled By Driver",489537,Bike,"Area 3","Area 39",0,0,0,,1,"More than permitted people in there",0,,475,0,0,0,UPI
+2024-02-29,08:44:00,CNR8693838423,Success,916805,Bike,"Area 22","Area 8",13.0093,23.3183,0,,0,,0,,838,7.44,4.7,4.6,UPI
+2024-02-03,05:15:00,CNR2404094868,Success,517011,Mini,"Area 43","Area 33",3.40689,12.2963,0,,0,,1,"Vehicle Breakdown",180,7.59,3.5,3.2,Card
+2024-02-10,10:33:00,CNR3564591422,"Cancelled by Customer",763049,Auto,"Area 45","Area 11",0,0,1,"Driver asked to cancel",0,,0,,264,0,0,0,Cash
+2024-02-09,17:58:00,CNR6819457587,"Cancelled By Driver",259253,"Prime Plus","Area 27","Area 43",0,0,0,,1,"More than permitted people in there",0,,556,0,0,0,Cash
+2024-02-08,21:19:00,CNR5340418958,Success,896957,eBike,"Area 45","Area 27",6.32389,24.1049,0,,0,,0,,672,7.78,3.9,3.3,UPI
+2024-02-08,21:17:00,CNR9207590897,Success,779022,"Prime Plus","Area 34","Area 26",11.1762,23.8156,0,,0,,0,,455,6.24,3.4,3.2,Cash
+2024-02-14,01:58:00,CNR7015416930,"Cancelled By Driver",575382,eBike,"Area 39","Area 10",0,0,0,,1,"The customer was coughing/sick",0,,4835,0,0,0,Card
+2024-02-17,14:18:00,CNR3339878265,"Cancelled By Driver",456489,"Prime SUV","Area 50","Area 33",0,0,0,,1,"More than permitted people in there",0,,983,0,0,0,Cash
+2024-02-14,21:35:00,CNR4096465010,Success,562595,Mini,"Area 2","Area 50",14.4062,14.1263,0,,0,,0,,797,16.89,4.4,4.3,UPI
+2024-02-28,01:07:00,CNR5808937524,"Driver Not Found",373324,Auto,"Area 17","Area 13",0,0,0,,0,,0,,750,0,0,0,Cash
+2024-02-16,22:07:00,CNR1993420005,"Cancelled By Driver",874085,Bike,"Area 22","Area 6",0,0,0,,1,"Customer related issue",0,,201,0,0,0,Cash
+2024-02-18,16:40:00,CNR1946293704,"Cancelled By Driver",167579,"Prime Plus","Area 45","Area 27",0,0,0,,1,"The customer was coughing/sick",0,,720,0,0,0,UPI
+2024-02-24,21:57:00,CNR1261255877,Success,244007,Auto,"Area 30","Area 50",4.40485,24.889,0,,0,,0,,343,21.08,3.7,3,UPI
+2024-02-21,12:03:00,CNR5118062191,"Cancelled By Driver",680251,Mini,"Area 37","Area 28",0,0,0,,1,"The customer was coughing/sick",0,,492,0,0,0,Cash
+2024-02-21,02:08:00,CNR5818370226,Success,583602,Auto,"Area 34","Area 18",13.1169,16.4926,0,,0,,0,,576,3.16,4.2,3.4,UPI
+2024-02-21,22:38:00,CNR9079532955,"Cancelled By Driver",118977,"Prime Sedan","Area 21","Area 10",0,0,0,,1,"The customer was coughing/sick",0,,291,0,0,0,Cash
+2024-02-23,01:36:00,CNR2448820536,Success,686993,Bike,"Area 9","Area 26",12.8164,15.1394,0,,0,,0,,164,15.29,4.4,3.7,UPI
+2024-02-20,21:12:00,CNR8886119707,Success,544591,eBike,"Area 29","Area 36",11.4551,15.0048,0,,0,,0,,134,22.02,3.5,4.5,Cash
+2024-02-19,22:45:00,CNR4329731468,Success,399017,"Prime SUV","Area 37","Area 27",9.11937,20.98,0,,0,,0,,928,20.02,3.4,3.3,Card
+2024-02-06,05:29:00,CNR7310717624,Success,975490,Auto,"Area 49","Area 7",6.97694,7.36159,0,,0,,0,,135,4.51,4.9,3.8,UPI
+2024-02-19,06:53:00,CNR1872692937,"Cancelled by Customer",301509,eBike,"Area 19","Area 45",0,0,1,"Wrong Address",0,,0,,181,0,0,0,Cash
+2024-02-29,19:03:00,CNR3110069037,Success,786086,"Prime Sedan","Area 17","Area 6",13.6583,24.2949,0,,0,,0,,699,6.31,3.8,3.9,Card
+2024-02-07,05:22:00,CNR2476060710,Success,157801,"Prime Plus","Area 41","Area 21",6.33298,14.2606,0,,0,,0,,359,17.22,3.7,4.4,UPI
+2024-02-12,02:37:00,CNR8216969271,Success,991154,eBike,"Area 7","Area 15",6.38601,24.5938,0,,0,,0,,316,12.4,4.7,4.8,UPI
+2024-02-27,16:52:00,CNR2570621976,Success,267634,Bike,"Area 48","Area 25",10.6765,18.8853,0,,0,,0,,669,20.8,4.1,4.1,Cash
+2024-02-22,16:57:00,CNR5546529060,"Cancelled By Driver",259547,Bike,"Area 34","Area 42",0,0,0,,1,"More than permitted people in there",0,,336,0,0,0,Cash
+2024-02-12,22:25:00,CNR8392580099,Success,511307,"Prime SUV","Area 17","Area 30",12.8926,6.92096,0,,0,,0,,370,14.54,3.1,5,UPI
+2024-02-13,08:16:00,CNR7529031061,Success,317822,Auto,"Area 38","Area 23",13.8339,14.5088,0,,0,,0,,163,6.31,3,4.1,Card
+2024-02-29,08:36:00,CNR7114225146,"Cancelled By Driver",485749,Auto,"Area 40","Area 19",0,0,0,,1,"Customer related issue",0,,151,0,0,0,UPI
+2024-02-29,12:30:00,CNR5344586284,"Cancelled By Driver",260891,eBike,"Area 29","Area 4",0,0,0,,1,"Personal & Car related issues",0,,248,0,0,0,Card
+2024-02-01,05:31:00,CNR1494887963,"Cancelled by Customer",284971,"Prime Plus","Area 16","Area 48",0,0,1,"Wrong Address",0,,0,,408,0,0,0,UPI
+2024-02-25,02:04:00,CNR8279591953,"Cancelled by Customer",560911,Mini,"Area 29","Area 5",0,0,1,"Change of plans",0,,0,,118,0,0,0,Cash
+2024-02-28,15:51:00,CNR5160187559,Success,943784,"Prime Plus","Area 22","Area 49",3.63582,15.3535,0,,0,,1,"Vehicle Breakdown",133,22.09,4.2,4,Cash
+2024-02-25,14:37:00,CNR7740571802,Success,393219,"Prime Sedan","Area 10","Area 8",12.1255,7.24723,0,,0,,0,,291,18.39,3.5,3.9,UPI
+2024-02-24,15:26:00,CNR1673521995,"Cancelled by Customer",230782,Mini,"Area 19","Area 11",0,0,1,"Driver asked to cancel",0,,0,,241,0,0,0,Card
+2024-02-27,20:02:00,CNR3252577671,"Driver Not Found",435354,Auto,"Area 31","Area 28",0,0,0,,0,,0,,348,0,0,0,Cash
+2024-02-05,20:17:00,CNR3884585967,Success,630373,Auto,"Area 43","Area 18",12.0637,21.6125,0,,0,,0,,334,9.08,3.3,3.2,Card
+2024-02-24,13:13:00,CNR3182579166,"Cancelled By Driver",721480,eBike,"Area 11","Area 5",0,0,0,,1,"Personal & Car related issues",0,,291,0,0,0,Cash
+2024-02-27,21:24:00,CNR8188597405,"Cancelled By Driver",129983,"Prime Sedan","Area 18","Area 46",0,0,0,,1,"Personal & Car related issues",0,,883,0,0,0,Cash
+2024-02-25,17:08:00,CNR6793196577,Success,814087,"Prime Plus","Area 25","Area 21",14.4486,9.38187,0,,0,,0,,656,13.42,3.6,4.1,UPI
+2024-02-22,13:28:00,CNR9535191881,Success,424698,"Prime SUV","Area 28","Area 28",3.6096,17.0264,0,,0,,0,,946,16.31,3.7,3,UPI
+2024-02-13,22:42:00,CNR5670199345,Success,104516,eBike,"Area 34","Area 26",4.96192,6.7868,0,,0,,0,,455,13.37,3.1,4.5,UPI
+2024-02-20,15:26:00,CNR7661139497,Success,630968,Bike,"Area 30","Area 46",11.804,8.90887,0,,0,,0,,429,22.65,4.9,4.9,Cash
+2024-02-06,13:51:00,CNR5618860610,Success,900073,Mini,"Area 9","Area 16",14.9031,7.54307,0,,0,,0,,636,14.32,3.9,3.5,Card
+2024-02-09,18:58:00,CNR9050706293,"Driver Not Found",918439,eBike,"Area 16","Area 24",0,0,0,,0,,0,,230,0,0,0,Card
+2024-02-13,23:26:00,CNR9810255048,Success,296043,Auto,"Area 19","Area 6",13.7526,12.7359,0,,0,,0,,450,24.99,3.6,4.9,Cash
+2024-02-01,15:02:00,CNR3048030098,"Cancelled By Driver",141456,"Prime Plus","Area 26","Area 49",0,0,0,,1,"The customer was coughing/sick",0,,215,0,0,0,Cash
+2024-02-03,00:28:00,CNR5697896525,Success,216851,eBike,"Area 6","Area 4",6.3136,16.7691,0,,0,,0,,357,7.04,4.4,4.1,Cash
+2024-02-16,08:06:00,CNR7059595394,"Driver Not Found",800883,Auto,"Area 16","Area 47",0,0,0,,0,,0,,206,0,0,0,Cash
+2024-02-19,03:42:00,CNR7408820729,"Driver Not Found",989553,Bike,"Area 50","Area 43",0,0,0,,0,,0,,277,0,0,0,UPI
+2024-02-27,23:56:00,CNR1932694321,Success,478430,"Prime SUV","Area 1","Area 27",6.25292,15.4405,0,,0,,0,,832,10.78,3.8,4.2,Cash
+2024-02-13,12:03:00,CNR2391312970,"Cancelled By Driver",603386,Bike,"Area 40","Area 9",0,0,0,,1,"Customer related issue",0,,326,0,0,0,Cash
+2024-02-20,13:08:00,CNR9726316425,"Cancelled By Driver",292636,"Prime Sedan","Area 33","Area 35",0,0,0,,1,"More than permitted people in there",0,,808,0,0,0,Card
+2024-02-03,06:17:00,CNR2283932352,Success,289408,eBike,"Area 13","Area 32",6.03602,19.4873,0,,0,,0,,362,23.25,4,3.3,Cash
+2024-02-26,10:55:00,CNR1177955908,Success,894419,"Prime Plus","Area 5","Area 9",12.0822,5.09719,0,,0,,0,,348,8.83,3.4,4.6,Cash
+2024-02-11,06:16:00,CNR9271647833,Success,838507,"Prime SUV","Area 46","Area 9",12.62,21.4499,0,,0,,0,,405,4.78,4.9,3.4,Cash
+2024-02-06,03:33:00,CNR3528776247,"Driver Not Found",723018,Auto,"Area 17","Area 42",0,0,0,,0,,0,,4185,0,0,0,Cash
+2024-02-03,17:16:00,CNR9648468818,Success,295131,"Prime SUV","Area 19","Area 20",14.1094,24.9826,0,,0,,0,,147,24.75,4.1,4.5,Cash
+2024-02-18,01:30:00,CNR9668708840,Success,199955,Bike,"Area 28","Area 18",6.44197,15.0097,0,,0,,0,,456,8.36,3.9,4.7,Cash
+2024-02-01,20:38:00,CNR5503500880,Success,895909,Bike,"Area 14","Area 36",7.50533,13.8967,0,,0,,0,,414,7.61,4.1,3.4,Cash
+2024-02-07,05:35:00,CNR1456205945,"Cancelled By Driver",938215,Bike,"Area 22","Area 8",0,0,0,,1,"Personal & Car related issues",0,,121,0,0,0,Cash
+2024-02-08,00:25:00,CNR6936218163,Success,747740,"Prime Plus","Area 50","Area 8",12.6468,10.2486,0,,0,,0,,299,6.22,4.3,4.5,Card
+2024-02-15,06:48:00,CNR5988827747,Success,133821,"Prime SUV","Area 11","Area 2",6.34617,15.7696,0,,0,,0,,369,22.03,4.8,4.5,Cash
+2024-02-15,20:17:00,CNR2187460103,"Cancelled by Customer",878315,"Prime Sedan","Area 5","Area 18",0,0,1,"Wrong Address",0,,0,,826,0,0,0,Card
+2024-02-21,02:28:00,CNR4245172928,"Cancelled By Driver",406900,"Prime Sedan","Area 50","Area 23",0,0,0,,1,"Customer related issue",0,,443,0,0,0,Card
+2024-02-15,08:29:00,CNR4347865424,"Driver Not Found",644437,"Prime Plus","Area 27","Area 5",0,0,0,,0,,0,,980,0,0,0,UPI
+2024-02-13,12:28:00,CNR6109621637,Success,365260,"Prime Plus","Area 33","Area 11",6.69648,18.3166,0,,0,,0,,650,10.81,3.1,4,Cash
+2024-02-12,06:16:00,CNR4569095875,"Driver Not Found",134659,"Prime Plus","Area 13","Area 6",0,0,0,,0,,0,,896,0,0,0,Cash
+2024-02-25,00:50:00,CNR6312214811,"Driver Not Found",379764,Auto,"Area 2","Area 20",0,0,0,,0,,0,,277,0,0,0,Card
+2024-02-07,14:36:00,CNR1364316430,Success,780260,Auto,"Area 36","Area 29",13.0341,5.7176,0,,0,,0,,314,22.76,4.2,3.4,UPI
+2024-02-23,05:01:00,CNR5431897966,"Cancelled By Driver",329583,Auto,"Area 6","Area 19",0,0,0,,1,"More than permitted people in there",0,,333,0,0,0,UPI
+2024-02-14,17:08:00,CNR6888241096,Success,300764,"Prime SUV","Area 45","Area 6",14.3278,16.0443,0,,0,,0,,379,23.6,3.8,3.1,Cash
+2024-02-28,19:33:00,CNR3841178688,Success,343486,"Prime SUV","Area 27","Area 35",8.81076,14.1958,0,,0,,0,,446,6.44,3.1,4.4,Cash
+2024-02-12,14:34:00,CNR6544450960,"Cancelled By Driver",136553,"Prime Plus","Area 38","Area 44",0,0,0,,1,"The customer was coughing/sick",0,,308,0,0,0,Cash
+2024-02-07,13:04:00,CNR4595510624,Success,949380,eBike,"Area 25","Area 50",5.02424,12.7837,0,,0,,0,,759,16.73,3.8,3.5,UPI
+2024-02-18,15:07:00,CNR8732990437,Success,659801,"Prime Sedan","Area 15","Area 37",7.80929,16.9091,0,,0,,0,,541,11.06,4.7,3.2,UPI
+2024-02-17,23:43:00,CNR3569882530,"Cancelled By Driver",279223,"Prime Sedan","Area 33","Area 4",0,0,0,,1,"The customer was coughing/sick",0,,198,0,0,0,UPI
+2024-02-09,06:51:00,CNR1604108555,Success,339755,Auto,"Area 41","Area 2",5.63975,23.3093,0,,0,,0,,127,10.22,3.8,4.8,Card
+2024-02-01,16:47:00,CNR4106663364,Success,406057,"Prime Plus","Area 11","Area 27",11.0438,8.97076,0,,0,,1,"Customer Demand",424,23.31,3.7,4.4,Cash
+2024-02-22,14:44:00,CNR6582174301,"Cancelled by Customer",508707,Mini,"Area 22","Area 48",0,0,1,"AC is not working",0,,0,,331,0,0,0,UPI
+2024-02-08,12:49:00,CNR4809906165,"Driver Not Found",753588,"Prime Plus","Area 46","Area 15",0,0,0,,0,,0,,126,0,0,0,Cash
+2024-02-07,01:16:00,CNR2669996013,Success,390144,Auto,"Area 4","Area 14",9.17112,12.9634,0,,0,,0,,763,17.6,3.6,4.8,Card
+2024-02-27,14:13:00,CNR1941401322,Success,786362,Auto,"Area 33","Area 19",10.3671,9.15072,0,,0,,0,,254,20.97,3,4.3,Card
+2024-02-25,06:47:00,CNR5466374789,Success,821990,Auto,"Area 1","Area 2",9.54256,5.02598,0,,0,,0,,922,22.98,3.6,3.1,Cash
+2024-02-05,22:39:00,CNR8000108040,Success,799945,"Prime SUV","Area 17","Area 18",10.3376,21.7183,0,,0,,0,,167,3.13,3.3,3.9,Cash
+2024-02-27,08:03:00,CNR7485941354,Success,646787,eBike,"Area 19","Area 9",8.44481,23.9362,0,,0,,0,,493,14.76,3.6,4.1,UPI
+2024-02-28,05:26:00,CNR9139341655,Success,853469,"Prime Plus","Area 27","Area 49",4.28202,6.2723,0,,0,,0,,652,14.47,4.3,3.4,Cash
+2024-02-26,03:19:00,CNR2860805916,Success,560503,Auto,"Area 11","Area 34",11.4558,15.7061,0,,0,,0,,905,19.91,4.1,3.8,Cash
+2024-02-08,08:29:00,CNR8459918473,"Driver Not Found",907049,"Prime Plus","Area 15","Area 26",0,0,0,,0,,0,,650,0,0,0,Card
+2024-02-08,09:19:00,CNR4397078805,"Cancelled by Customer",213720,Auto,"Area 20","Area 18",0,0,1,"Change of plans",0,,0,,142,0,0,0,Cash
+2024-02-04,20:14:00,CNR1247855582,Success,160059,Bike,"Area 21","Area 18",13.7593,21.9623,0,,0,,1,"Customer Demand",199,14.31,3.6,3.8,Cash
+2024-02-02,02:02:00,CNR5081467091,Success,837120,Mini,"Area 17","Area 17",6.81657,22.2465,0,,0,,0,,396,8.54,3.1,5,Card
+2024-02-11,22:56:00,CNR9833378866,Success,546654,"Prime SUV","Area 31","Area 5",12.1603,6.00141,0,,0,,0,,263,5.74,4.2,4.2,UPI
+2024-02-03,13:25:00,CNR7203357672,Success,120955,Mini,"Area 45","Area 21",7.89141,24.855,0,,0,,0,,622,10.41,5,4,UPI
+2024-02-12,14:50:00,CNR5804074181,Success,204129,eBike,"Area 38","Area 26",6.20053,21.4503,0,,0,,0,,966,14.15,3.3,3.2,Cash
+2024-02-13,04:54:00,CNR9295457681,Success,400619,"Prime SUV","Area 13","Area 18",4.38707,14.0901,0,,0,,0,,813,6.05,3.8,3.7,Cash
+2024-02-03,07:14:00,CNR3733045345,Success,202197,Bike,"Area 21","Area 1",11.3928,18.3776,0,,0,,0,,105,2.47,3.2,3.3,Card
+2024-02-16,18:06:00,CNR1699400822,"Cancelled By Driver",914764,Mini,"Area 10","Area 3",0,0,0,,1,"Customer related issue",0,,351,0,0,0,Cash
+2024-02-04,05:38:00,CNR4559300724,Success,573943,"Prime SUV","Area 49","Area 11",8.32118,20.5103,0,,0,,0,,216,11.28,3.5,3.2,UPI
+2024-02-12,02:22:00,CNR4081821249,"Cancelled By Driver",181304,"Prime SUV","Area 42","Area 21",0,0,0,,1,"More than permitted people in there",0,,898,0,0,0,Cash
+2024-02-17,16:42:00,CNR7634987036,"Cancelled by Customer",604449,eBike,"Area 33","Area 41",0,0,1,"Driver is not moving towards pickup location",0,,0,,656,0,0,0,Cash
+2024-02-22,14:02:00,CNR1271265450,Success,515560,Mini,"Area 28","Area 5",14.1384,22.0238,0,,0,,1,"Customer Demand",846,24.7,4.7,3.6,Cash
+2024-02-29,22:29:00,CNR8326401964,"Driver Not Found",482982,Mini,"Area 3","Area 30",0,0,0,,0,,0,,485,0,0,0,Cash
+2024-02-22,23:10:00,CNR7497264489,Success,170828,Auto,"Area 7","Area 43",8.25033,17.0764,0,,0,,0,,330,5.38,3.8,3.9,Cash
+2024-02-06,12:06:00,CNR1472641225,Success,397928,eBike,"Area 42","Area 35",8.15376,23.0916,0,,0,,0,,121,16.61,3.6,3.9,Cash
+2024-02-12,08:53:00,CNR4065530231,Success,854920,Auto,"Area 5","Area 47",12.1074,17.4294,0,,0,,0,,4908,18.83,3.8,4.9,UPI
+2024-02-16,23:19:00,CNR9288946236,Success,475548,eBike,"Area 41","Area 19",5.73044,23.1437,0,,0,,0,,435,14.95,5,4.8,Cash
+2024-02-20,19:49:00,CNR5857681483,Success,188109,"Prime SUV","Area 42","Area 14",10.0822,22.1349,0,,0,,0,,1337,5.49,3.8,3.1,Card
+2024-02-19,10:25:00,CNR7824187629,"Driver Not Found",716408,Mini,"Area 15","Area 50",0,0,0,,0,,0,,302,0,0,0,Card
+2024-02-04,15:33:00,CNR3091641616,"Cancelled By Driver",204606,"Prime Plus","Area 32","Area 22",0,0,0,,1,"Personal & Car related issues",0,,4596,0,0,0,Card
+2024-02-09,18:11:00,CNR8011858783,Success,185453,"Prime SUV","Area 9","Area 14",11.5954,21.4034,0,,0,,0,,211,5.97,3.9,3.6,Cash
+2024-02-25,08:22:00,CNR3636832105,"Driver Not Found",129449,Mini,"Area 21","Area 17",0,0,0,,0,,0,,2426,0,0,0,UPI
+2024-02-24,14:52:00,CNR7527380292,Success,692537,eBike,"Area 35","Area 41",14.3196,17.4058,0,,0,,1,"Other Issue",118,5.2,3.5,4.3,Card
+2024-02-25,21:40:00,CNR8671364520,Success,716734,Mini,"Area 30","Area 2",5.95559,23.7317,0,,0,,0,,422,9.93,4.6,4,Cash
+2024-02-20,08:44:00,CNR4439011564,Success,564904,Bike,"Area 29","Area 37",6.92708,13.0336,0,,0,,0,,726,3.88,3.4,4.8,Card
+2024-02-15,17:55:00,CNR5937135116,Success,930327,"Prime Plus","Area 38","Area 28",7.15212,18.4721,0,,0,,0,,815,5.8,4,4.2,Cash
+2024-02-25,07:26:00,CNR3012293148,Success,434298,eBike,"Area 41","Area 33",6.07207,11.625,0,,0,,1,"Customer Demand",430,4.85,4.1,3.1,UPI
+2024-02-02,04:36:00,CNR9181475647,"Driver Not Found",313301,Mini,"Area 17","Area 1",0,0,0,,0,,0,,536,0,0,0,Cash
+2024-02-09,22:02:00,CNR8204942911,"Cancelled By Driver",507120,Auto,"Area 44","Area 18",0,0,0,,1,"The customer was coughing/sick",0,,3595,0,0,0,Cash
+2024-02-25,19:14:00,CNR4675184345,Success,271149,eBike,"Area 12","Area 10",8.6291,11.3293,0,,0,,0,,150,4.13,3.9,3.2,Cash
+2024-02-24,02:27:00,CNR5276372506,Success,492820,Mini,"Area 22","Area 30",3.63667,8.43566,0,,0,,0,,388,15.45,3.4,3.9,Cash
+2024-02-16,12:46:00,CNR5551753290,"Driver Not Found",646623,eBike,"Area 36","Area 17",0,0,0,,0,,0,,739,0,0,0,Cash
+2024-02-19,12:42:00,CNR2438451054,Success,335752,"Prime Plus","Area 40","Area 46",12.8127,20.0098,0,,0,,0,,137,16.44,4.6,4,UPI
+2024-02-28,16:15:00,CNR5063228775,Success,936361,Auto,"Area 46","Area 31",9.94432,7.70239,0,,0,,0,,469,9.24,4.8,3.1,Card
+2024-02-04,13:16:00,CNR6262490775,"Cancelled by Customer",220174,Bike,"Area 18","Area 12",0,0,1,"Wrong Address",0,,0,,781,0,0,0,Cash
+2024-02-24,07:12:00,CNR4422794634,Success,274756,Mini,"Area 7","Area 23",7.02369,10.9769,0,,0,,0,,758,17.64,4,3.8,Card
+2024-02-29,23:04:00,CNR7813547554,"Driver Not Found",376494,Bike,"Area 49","Area 5",0,0,0,,0,,0,,423,0,0,0,UPI
+2024-02-09,06:32:00,CNR8968888972,Success,716951,"Prime Plus","Area 29","Area 48",4.81759,8.10057,0,,0,,0,,874,24.56,3.7,4,Cash
+2024-02-29,02:37:00,CNR9212025737,"Cancelled by Customer",624503,Mini,"Area 1","Area 22",0,0,1,"AC is not working",0,,0,,386,0,0,0,UPI
+2024-02-18,22:41:00,CNR7252635349,Success,391973,Auto,"Area 41","Area 29",13.733,14.6852,0,,0,,0,,594,5.82,3.7,4.7,UPI
+2024-02-15,22:25:00,CNR8414536287,"Driver Not Found",813731,"Prime Sedan","Area 31","Area 32",0,0,0,,0,,0,,301,0,0,0,Cash
+2024-02-09,10:13:00,CNR2807146944,Success,568844,"Prime SUV","Area 43","Area 28",6.37797,15.3847,0,,0,,0,,898,16.55,3.9,4.7,Cash
+2024-02-23,07:22:00,CNR8242003478,Success,539387,Mini,"Area 43","Area 30",14.8923,22.1087,0,,0,,0,,430,22.29,4.5,3.6,Card
+2024-02-15,23:22:00,CNR5705839374,"Driver Not Found",877957,Auto,"Area 48","Area 24",0,0,0,,0,,0,,218,0,0,0,Card
+2024-02-13,15:33:00,CNR3657694738,"Cancelled By Driver",340069,Mini,"Area 42","Area 4",0,0,0,,1,"The customer was coughing/sick",0,,223,0,0,0,UPI
+2024-02-27,18:19:00,CNR6490778482,Success,883462,Bike,"Area 48","Area 41",11.1969,14.0005,0,,0,,0,,835,17.94,4.9,3.1,Card
+2024-02-16,21:57:00,CNR2942836531,"Driver Not Found",730421,"Prime SUV","Area 49","Area 13",0,0,0,,0,,0,,436,0,0,0,UPI
+2024-02-14,11:45:00,CNR5425043030,Success,790643,"Prime SUV","Area 38","Area 50",4.05451,11.0157,0,,0,,0,,159,21.9,3.9,3.7,UPI
+2024-02-27,17:32:00,CNR2713481639,Success,109384,"Prime SUV","Area 7","Area 16",13.1044,19.427,0,,0,,0,,750,7.82,3.7,4.6,Cash
+2024-02-14,07:38:00,CNR7588820506,Success,973016,"Prime Sedan","Area 50","Area 17",14.7207,24.0675,0,,0,,1,"Customer Demand",402,18.01,3.2,4.7,Card
+2024-02-15,12:11:00,CNR6634823911,Success,975441,eBike,"Area 36","Area 36",6.04405,24.9514,0,,0,,0,,476,22.64,3.2,3.1,UPI
+2024-02-08,22:48:00,CNR8241094999,Success,994388,eBike,"Area 45","Area 9",4.98278,21.0285,0,,0,,0,,386,4.59,4.1,3.6,UPI
+2024-02-17,05:20:00,CNR2298535595,Success,914907,Bike,"Area 24","Area 47",5.58505,12.4797,0,,0,,0,,188,15.53,4.3,3.3,Cash
+2024-02-02,03:54:00,CNR5936110273,Success,191145,"Prime SUV","Area 30","Area 14",7.33555,17.2664,0,,0,,0,,353,5.41,3.9,4.5,Cash
+2024-02-27,03:28:00,CNR5236741789,Success,968375,eBike,"Area 16","Area 46",13.2644,14.2222,0,,0,,0,,419,2.28,3.2,4.8,UPI
+2024-02-14,23:41:00,CNR8283624339,Success,489680,Mini,"Area 43","Area 5",11.258,15.9911,0,,0,,0,,855,15.3,4.9,4.2,Card
+2024-02-08,05:12:00,CNR1337627220,Success,861472,Mini,"Area 2","Area 28",3.38021,13.5825,0,,0,,0,,361,21.9,3.2,4.9,Cash
+2024-02-07,17:52:00,CNR9305993363,"Cancelled By Driver",229563,"Prime SUV","Area 22","Area 48",0,0,0,,1,"Personal & Car related issues",0,,202,0,0,0,Cash
+2024-02-13,01:39:00,CNR3221303505,"Cancelled By Driver",489374,eBike,"Area 39","Area 40",0,0,0,,1,"Personal & Car related issues",0,,324,0,0,0,UPI
+2024-02-23,20:51:00,CNR8189548426,"Cancelled By Driver",902916,"Prime Sedan","Area 4","Area 30",0,0,0,,1,"Customer related issue",0,,167,0,0,0,UPI
+2024-02-28,08:36:00,CNR6472849769,"Driver Not Found",621039,eBike,"Area 30","Area 17",0,0,0,,0,,0,,180,0,0,0,Card
+2024-02-22,12:22:00,CNR9123671846,"Driver Not Found",653020,Bike,"Area 41","Area 48",0,0,0,,0,,0,,245,0,0,0,Cash
+2024-02-13,01:15:00,CNR6363310228,"Cancelled By Driver",107211,eBike,"Area 46","Area 20",0,0,0,,1,"Customer related issue",0,,466,0,0,0,Cash
+2024-02-24,00:49:00,CNR8556216354,Success,832853,"Prime Sedan","Area 7","Area 17",8.92519,20.3289,0,,0,,0,,218,12.96,4.6,4.4,Cash
+2024-02-17,08:01:00,CNR9781971793,"Driver Not Found",935111,eBike,"Area 24","Area 23",0,0,0,,0,,0,,325,0,0,0,Cash
+2024-02-05,21:21:00,CNR9846155639,Success,758218,eBike,"Area 5","Area 8",5.54408,12.9923,0,,0,,0,,578,9.69,3.1,3.7,UPI
+2024-02-26,12:56:00,CNR6090690241,"Cancelled By Driver",412057,Mini,"Area 41","Area 38",0,0,0,,1,"The customer was coughing/sick",0,,417,0,0,0,UPI
+2024-02-21,22:59:00,CNR5110886799,"Driver Not Found",321694,Auto,"Area 3","Area 3",0,0,0,,0,,0,,146,0,0,0,Card
+2024-02-11,19:49:00,CNR9770836772,Success,761860,"Prime Sedan","Area 2","Area 47",14.7708,14.9019,0,,0,,0,,430,23.35,3.7,3.7,UPI
+2024-02-21,15:58:00,CNR4656832067,"Driver Not Found",749388,"Prime Plus","Area 36","Area 42",0,0,0,,0,,0,,585,0,0,0,Card
+2024-02-07,13:03:00,CNR8639126132,"Cancelled By Driver",481469,"Prime Plus","Area 38","Area 26",0,0,0,,1,"Customer related issue",0,,918,0,0,0,Cash
+2024-02-28,19:58:00,CNR6221037726,Success,170501,"Prime Plus","Area 26","Area 26",9.02701,19.5615,0,,0,,0,,451,24.32,3.5,3.9,UPI
+2024-02-11,08:58:00,CNR6547727190,Success,553587,"Prime SUV","Area 2","Area 47",4.67773,24.8522,0,,0,,0,,897,13.35,3.6,3.7,Cash
+2024-02-04,21:08:00,CNR1245534187,Success,985208,"Prime Sedan","Area 17","Area 39",5.5341,24.3306,0,,0,,0,,536,8.66,4.8,4.8,UPI
+2024-02-25,05:24:00,CNR8290749251,Success,267668,"Prime SUV","Area 10","Area 36",7.75708,7.72535,0,,0,,0,,232,10.87,4.3,4.9,Card
+2024-02-11,14:21:00,CNR6394971683,Success,846072,Bike,"Area 28","Area 9",3.56831,19.8365,0,,0,,0,,192,14.83,4.7,3.5,Cash
+2024-02-16,10:51:00,CNR7847171590,"Cancelled By Driver",242764,Mini,"Area 47","Area 29",0,0,0,,1,"Customer related issue",0,,298,0,0,0,Cash
+2024-02-19,17:55:00,CNR8411706619,Success,247034,"Prime Sedan","Area 7","Area 20",3.02905,14.4562,0,,0,,0,,469,14.25,3.3,4.9,UPI
+2024-02-15,18:16:00,CNR4837088363,Success,786868,eBike,"Area 29","Area 24",5.88502,10.9218,0,,0,,0,,203,18.08,3.9,3.8,UPI
+2024-02-19,21:40:00,CNR6259596283,"Cancelled By Driver",170122,Mini,"Area 37","Area 16",0,0,0,,1,"Personal & Car related issues",0,,294,0,0,0,Cash
+2024-02-24,07:55:00,CNR3690906364,Success,172089,"Prime Sedan","Area 6","Area 31",14.5616,21.0658,0,,0,,0,,465,21.76,4.3,4.5,Cash
+2024-02-15,06:21:00,CNR8700983592,"Cancelled By Driver",957363,"Prime Sedan","Area 43","Area 49",0,0,0,,1,"Personal & Car related issues",0,,274,0,0,0,Cash
+2024-02-27,19:34:00,CNR2655894870,Success,716106,"Prime SUV","Area 44","Area 33",3.34149,15.1081,0,,0,,0,,121,2.93,4.9,4.9,Cash
+2024-02-13,09:18:00,CNR2375168006,"Cancelled by Customer",254693,"Prime Plus","Area 48","Area 44",0,0,1,"AC is not working",0,,0,,420,0,0,0,Card
+2024-02-16,20:40:00,CNR1141264580,Success,854147,eBike,"Area 50","Area 35",14.1895,13.6163,0,,0,,0,,621,13.13,4.7,4.3,UPI
+2024-02-18,13:03:00,CNR5536947131,"Cancelled By Driver",889561,"Prime SUV","Area 7","Area 20",0,0,0,,1,"Customer related issue",0,,759,0,0,0,Cash
+2024-02-23,11:06:00,CNR3881742911,Success,242956,"Prime Plus","Area 29","Area 37",9.1435,12.3981,0,,0,,0,,788,14.69,4.5,4,Cash
+2024-02-04,13:00:00,CNR4831131848,Success,575398,"Prime SUV","Area 37","Area 47",12.2635,20.7671,0,,0,,0,,972,14.49,3.6,4.5,Cash
+2024-02-17,11:23:00,CNR2189328442,Success,249185,"Prime Sedan","Area 47","Area 48",5.31001,17.9769,0,,0,,0,,136,13.78,3.1,3.7,Cash
+2024-02-12,04:28:00,CNR9806040864,"Driver Not Found",240804,"Prime Sedan","Area 13","Area 24",0,0,0,,0,,0,,795,0,0,0,Cash
+2024-02-20,17:56:00,CNR8878217948,"Driver Not Found",280614,"Prime Sedan","Area 29","Area 30",0,0,0,,0,,0,,323,0,0,0,Card
+2024-02-20,13:59:00,CNR4768321653,Success,708337,"Prime Plus","Area 5","Area 2",4.43557,12.9096,0,,0,,0,,412,9.17,4.5,3.9,Cash
+2024-02-22,20:14:00,CNR6658223826,Success,628624,eBike,"Area 33","Area 13",13.1246,11.7336,0,,0,,0,,230,10.87,4.8,4.9,UPI
+2024-02-11,06:10:00,CNR9569987916,Success,317681,"Prime Sedan","Area 15","Area 31",4.43071,24.6388,0,,0,,0,,453,9.08,4.2,3.9,Cash
+2024-02-22,00:26:00,CNR2683478403,Success,593784,"Prime SUV","Area 29","Area 6",13.1904,5.52837,0,,0,,0,,321,9.33,4.4,4,Cash
+2024-02-14,08:50:00,CNR9676199284,"Driver Not Found",383738,"Prime Sedan","Area 47","Area 4",0,0,0,,0,,0,,385,0,0,0,UPI
+2024-02-06,06:47:00,CNR4069708567,"Cancelled By Driver",397156,Bike,"Area 13","Area 6",0,0,0,,1,"Customer related issue",0,,363,0,0,0,UPI
+2024-02-10,11:23:00,CNR4052807565,Success,383736,Auto,"Area 10","Area 39",9.4823,8.1968,0,,0,,0,,448,15,4.7,4.6,UPI
+2024-02-18,09:46:00,CNR8228993519,Success,774944,Mini,"Area 27","Area 21",12.9448,12.8287,0,,0,,0,,448,7.13,3.2,3.6,Cash
+2024-02-13,08:03:00,CNR7390307660,Success,162094,Bike,"Area 38","Area 43",11.4332,21.9817,0,,0,,0,,199,9.01,4.7,4,UPI
+2024-02-17,13:57:00,CNR8008043066,"Cancelled By Driver",929035,eBike,"Area 45","Area 3",0,0,0,,1,"The customer was coughing/sick",0,,633,0,0,0,UPI
+2024-02-09,19:32:00,CNR5035629866,"Cancelled By Driver",713595,"Prime SUV","Area 12","Area 29",0,0,0,,1,"Personal & Car related issues",0,,189,0,0,0,UPI
+2024-02-07,03:14:00,CNR8870647104,Success,178544,Bike,"Area 31","Area 9",12.3732,7.77725,0,,0,,0,,414,23.07,3,4.1,UPI
+2024-02-24,09:56:00,CNR9545286599,Success,138738,Mini,"Area 13","Area 11",14.291,9.30451,0,,0,,0,,915,5.08,3.4,4.5,Card
+2024-02-09,17:32:00,CNR3002012846,Success,318060,Bike,"Area 20","Area 38",10.5323,19.8049,0,,0,,0,,609,23.37,3.9,4.6,Cash
+2024-02-19,11:46:00,CNR9009760460,"Driver Not Found",664671,"Prime SUV","Area 45","Area 47",0,0,0,,0,,0,,110,0,0,0,Cash
+2024-02-08,14:37:00,CNR9340758032,Success,285083,eBike,"Area 18","Area 34",13.1125,5.96794,0,,0,,0,,353,12.14,4.5,3.4,Cash
+2024-02-09,04:18:00,CNR6585500998,Success,863013,"Prime Sedan","Area 34","Area 13",13.6219,14.2275,0,,0,,0,,217,14.5,4.4,4.5,Cash
+2024-02-20,14:40:00,CNR3511657947,"Cancelled By Driver",404060,"Prime SUV","Area 47","Area 13",0,0,0,,1,"The customer was coughing/sick",0,,884,0,0,0,UPI
+2024-02-24,10:03:00,CNR1547237135,"Driver Not Found",454842,"Prime SUV","Area 38","Area 49",0,0,0,,0,,0,,384,0,0,0,Cash
+2024-02-13,21:39:00,CNR2420164250,"Cancelled By Driver",861938,Auto,"Area 25","Area 27",0,0,0,,1,"The customer was coughing/sick",0,,311,0,0,0,Cash
+2024-02-05,18:53:00,CNR7284405536,"Cancelled By Driver",198183,"Prime Plus","Area 46","Area 40",0,0,0,,1,"Customer related issue",0,,409,0,0,0,Cash
+2024-02-27,12:52:00,CNR8903093340,Success,553826,Bike,"Area 3","Area 31",6.41997,20.2903,0,,0,,0,,324,2.4,4.1,4.2,Cash
+2024-02-02,14:29:00,CNR3537630330,"Driver Not Found",774659,"Prime SUV","Area 18","Area 45",0,0,0,,0,,0,,233,0,0,0,UPI
+2024-02-18,00:37:00,CNR8988386531,Success,149452,"Prime Sedan","Area 19","Area 7",14.6859,10.6383,0,,0,,0,,912,24.61,3.3,4.8,UPI
+2024-02-15,00:22:00,CNR5817220862,Success,396982,"Prime Sedan","Area 11","Area 9",3.2389,13.5863,0,,0,,0,,303,23.71,3.2,4.4,UPI
+2024-02-26,16:01:00,CNR5542068625,Success,176333,eBike,"Area 18","Area 40",12.9741,12.4289,0,,0,,0,,254,18.68,4.3,4.1,UPI
+2024-02-07,20:21:00,CNR9927922202,"Driver Not Found",189049,Mini,"Area 44","Area 13",0,0,0,,0,,0,,326,0,0,0,Cash
+2024-02-13,08:45:00,CNR7795518549,Success,770349,eBike,"Area 48","Area 33",8.52825,24.3384,0,,0,,0,,321,23.42,3.4,4.5,Card
+2024-02-13,23:34:00,CNR9875025795,Success,556695,"Prime SUV","Area 15","Area 46",14.1382,24.7066,0,,0,,0,,443,12.37,4.7,4.3,Cash
+2024-02-04,10:30:00,CNR1502842116,Success,422758,"Prime Sedan","Area 7","Area 1",6.74853,14.3217,0,,0,,0,,206,9.67,4.7,4.4,Cash
+2024-02-10,12:07:00,CNR4126189580,Success,553203,"Prime Plus","Area 48","Area 26",13.9157,21.3946,0,,0,,0,,261,11.69,4.3,3.5,Cash
+2024-02-27,16:09:00,CNR1919341932,Success,630321,"Prime Sedan","Area 16","Area 14",12.5431,18.7747,0,,0,,0,,163,5.64,3.1,3.7,Card
+2024-02-25,04:32:00,CNR1114464212,Success,805736,"Prime Plus","Area 15","Area 16",3.76902,12.1681,0,,0,,0,,227,18.28,3.4,3.8,Cash
+2024-02-02,12:04:00,CNR5190504312,"Cancelled By Driver",136352,Bike,"Area 43","Area 21",0,0,0,,1,"More than permitted people in there",0,,289,0,0,0,Cash
+2024-02-25,03:48:00,CNR6656349722,Success,413749,"Prime SUV","Area 38","Area 21",14.3611,23.268,0,,0,,0,,781,17.44,4.9,3.1,Cash
+2024-02-29,13:44:00,CNR9580476156,Success,617868,Auto,"Area 37","Area 31",8.70844,5.52706,0,,0,,0,,433,21.21,5,3.6,Cash
+2024-02-14,16:53:00,CNR1170981994,Success,876367,Auto,"Area 41","Area 50",12.7779,18.8044,0,,0,,0,,199,14.69,4.6,3.9,Cash
+2024-02-22,22:50:00,CNR1555596234,Success,301600,Auto,"Area 23","Area 37",8.14207,23.0658,0,,0,,0,,338,14.37,3.3,4.2,Cash
+2024-02-01,18:15:00,CNR2872404977,Success,967431,"Prime SUV","Area 46","Area 24",4.23636,22.8718,0,,0,,0,,314,7.12,3.3,4.5,Cash
+2024-02-27,10:01:00,CNR6110220962,"Cancelled by Customer",244687,eBike,"Area 7","Area 44",0,0,1,"Driver asked to cancel",0,,0,,129,0,0,0,Cash
+2024-02-03,15:09:00,CNR7600749073,Success,477442,"Prime SUV","Area 24","Area 17",13.9213,7.32494,0,,0,,0,,112,8.39,4.8,4.3,UPI
+2024-02-11,06:52:00,CNR3699968232,"Cancelled by Customer",993008,"Prime SUV","Area 32","Area 33",0,0,1,"Change of plans",0,,0,,123,0,0,0,Cash
+2024-02-07,13:18:00,CNR1943538913,"Cancelled By Driver",908541,Bike,"Area 49","Area 21",0,0,0,,1,"The customer was coughing/sick",0,,595,0,0,0,UPI
+2024-02-10,09:58:00,CNR8125016664,"Cancelled By Driver",222728,Mini,"Area 38","Area 19",0,0,0,,1,"Customer related issue",0,,645,0,0,0,UPI
+2024-02-01,08:22:00,CNR2249750322,Success,341636,"Prime SUV","Area 49","Area 18",3.19131,6.15739,0,,0,,0,,404,11.32,3.2,3.5,Cash
+2024-02-13,17:12:00,CNR6464315958,Success,975380,"Prime Sedan","Area 9","Area 34",7.95203,22.0977,0,,0,,0,,468,21.55,3.9,3.2,Cash
+2024-02-07,17:20:00,CNR8282959611,Success,772517,"Prime Plus","Area 20","Area 7",7.35391,11.423,0,,0,,1,"Vehicle Breakdown",731,3.34,3.2,4.6,Card
+2024-02-16,08:09:00,CNR2809867687,Success,947678,"Prime Sedan","Area 49","Area 47",14.7446,10.8449,0,,0,,0,,221,24.42,3.8,4.4,Card
+2024-02-03,14:38:00,CNR8641382024,Success,579628,Mini,"Area 30","Area 17",6.12559,11.2369,0,,0,,0,,437,17.54,3.2,4.3,Cash
+2024-02-07,19:33:00,CNR4259191063,Success,520319,Bike,"Area 28","Area 27",8.60715,12.4731,0,,0,,0,,252,9.09,3.9,4.7,Card
+2024-02-29,13:12:00,CNR8598821508,Success,850523,Bike,"Area 47","Area 4",7.09818,16.3356,0,,0,,0,,731,23.7,3.5,3.8,Cash
+2024-02-29,12:08:00,CNR4300411484,"Driver Not Found",162407,"Prime Sedan","Area 47","Area 9",0,0,0,,0,,0,,100,0,0,0,Cash
+2024-02-26,11:59:00,CNR2629487450,Success,659979,eBike,"Area 23","Area 9",6.09882,11.7889,0,,0,,0,,266,17.18,5,3.3,Cash
+2024-02-29,04:55:00,CNR4361810238,Success,824145,Mini,"Area 21","Area 16",11.846,7.40562,0,,0,,0,,157,12.76,3.2,3.2,UPI
+2024-02-22,15:11:00,CNR6560632510,Success,793615,Bike,"Area 2","Area 46",7.04619,23.5036,0,,0,,0,,450,15.92,4.7,4,Card
+2024-02-22,01:47:00,CNR6741179782,Success,975214,"Prime SUV","Area 29","Area 4",14.5425,21.4094,0,,0,,0,,364,24.36,3.6,3.5,UPI
+2024-02-13,11:35:00,CNR9652902780,Success,868877,"Prime SUV","Area 6","Area 36",7.35173,21.1155,0,,0,,0,,217,8.52,3.8,4.7,Cash
+2024-02-28,00:09:00,CNR5025376062,Success,859483,Mini,"Area 47","Area 4",8.91667,6.24106,0,,0,,0,,317,10.07,4.8,3.9,Cash
+2024-02-25,06:51:00,CNR6062291921,"Driver Not Found",887734,eBike,"Area 27","Area 6",0,0,0,,0,,0,,234,0,0,0,Cash
+2024-02-12,03:55:00,CNR3005548196,Success,207411,Bike,"Area 28","Area 28",6.48012,11.7106,0,,0,,0,,136,4.73,4.3,3.5,Cash
+2024-02-03,10:26:00,CNR9941900344,Success,388254,Bike,"Area 27","Area 19",4.09116,14.8861,0,,0,,0,,611,5.79,3,4,Cash
+2024-02-08,06:40:00,CNR2394908945,"Cancelled By Driver",820798,"Prime SUV","Area 23","Area 21",0,0,0,,1,"More than permitted people in there",0,,687,0,0,0,UPI
+2024-02-02,17:35:00,CNR9713212995,Success,499997,"Prime Sedan","Area 9","Area 4",13.6437,7.68221,0,,0,,0,,935,13.73,3.4,3.4,UPI
+2024-02-14,13:17:00,CNR2506824599,"Cancelled by Customer",820843,Mini,"Area 43","Area 29",0,0,1,"Driver is not moving towards pickup location",0,,0,,705,0,0,0,UPI
+2024-02-04,02:04:00,CNR7646937619,"Cancelled by Customer",742343,eBike,"Area 41","Area 36",0,0,1,"Wrong Address",0,,0,,483,0,0,0,UPI
+2024-02-04,19:29:00,CNR2963587920,Success,561790,Auto,"Area 42","Area 44",4.68244,20.6154,0,,0,,0,,227,10.51,4.1,4.1,Cash
+2024-02-19,03:55:00,CNR4474628570,Success,167528,Mini,"Area 20","Area 25",8.63933,12.9335,0,,0,,0,,487,15.06,4.3,4.6,Card
+2024-02-28,10:00:00,CNR2890858891,Success,932308,Mini,"Area 43","Area 17",8.68045,14.2077,0,,0,,0,,421,7.51,4.8,4.5,UPI
+2024-02-29,23:24:00,CNR1553117996,Success,403483,"Prime Plus","Area 39","Area 1",3.15905,23.5069,0,,0,,0,,959,19.23,3.4,4.2,Card
+2024-02-12,09:13:00,CNR6822898449,"Cancelled By Driver",847656,"Prime Plus","Area 34","Area 15",0,0,0,,1,"The customer was coughing/sick",0,,702,0,0,0,Cash
+2024-02-15,23:36:00,CNR7935429305,"Driver Not Found",614209,Mini,"Area 25","Area 25",0,0,0,,0,,0,,112,0,0,0,Cash
+2024-02-10,14:23:00,CNR9566939791,Success,854422,Mini,"Area 40","Area 35",12.0484,7.20475,0,,0,,0,,690,5.29,3.6,4.9,Cash
+2024-02-07,23:15:00,CNR6647379967,"Cancelled By Driver",476905,Mini,"Area 35","Area 15",0,0,0,,1,"The customer was coughing/sick",0,,612,0,0,0,UPI
+2024-02-25,04:47:00,CNR7394397139,"Cancelled By Driver",568249,"Prime SUV","Area 18","Area 41",0,0,0,,1,"More than permitted people in there",0,,425,0,0,0,Card
+2024-02-02,21:59:00,CNR7914196423,"Cancelled By Driver",736854,Bike,"Area 38","Area 19",0,0,0,,1,"More than permitted people in there",0,,174,0,0,0,Cash
+2024-02-13,19:37:00,CNR4883034800,Success,991598,eBike,"Area 32","Area 47",4.61704,11.2398,0,,0,,0,,103,23.38,4.3,3.6,Cash
+2024-02-11,17:13:00,CNR6052473590,Success,522477,"Prime Sedan","Area 6","Area 5",14.4883,18.1008,0,,0,,0,,675,14.11,4.1,3.4,UPI
+2024-02-16,23:26:00,CNR9750442558,Success,802018,"Prime SUV","Area 43","Area 20",6.16606,9.49648,0,,0,,0,,345,13.22,4,4.1,Cash
+2024-02-19,13:23:00,CNR8769782998,Success,469947,Bike,"Area 36","Area 49",14.0328,7.30779,0,,0,,0,,201,3.02,4.8,3,UPI
+2024-02-18,23:28:00,CNR7883197039,Success,293423,Bike,"Area 18","Area 11",5.21486,21.3189,0,,0,,0,,233,4,3.2,4.7,Card
+2024-02-12,01:52:00,CNR1043582241,Success,878310,Mini,"Area 41","Area 15",4.14804,23.1412,0,,0,,0,,541,12.03,3.6,4.5,Cash
+2024-02-26,20:05:00,CNR6293440258,"Cancelled by Customer",799272,eBike,"Area 42","Area 28",0,0,1,"AC is not working",0,,0,,636,0,0,0,Cash
+2024-02-03,17:53:00,CNR7651966281,Success,316068,Mini,"Area 3","Area 24",9.86276,16.6461,0,,0,,0,,611,20,4.5,4.4,Cash
+2024-02-21,17:25:00,CNR2027049204,"Cancelled By Driver",292426,eBike,"Area 13","Area 27",0,0,0,,1,"Customer related issue",0,,152,0,0,0,UPI
+2024-02-19,10:05:00,CNR6894186758,Success,421242,Mini,"Area 4","Area 34",4.00708,24.5158,0,,0,,0,,156,14.74,4.5,4.5,Cash
+2024-02-02,08:06:00,CNR6984942978,"Cancelled by Customer",138093,"Prime Plus","Area 26","Area 29",0,0,1,"AC is not working",0,,0,,395,0,0,0,Cash
+2024-02-29,22:53:00,CNR2249209858,Success,471879,"Prime Sedan","Area 20","Area 11",10.2047,11.5648,0,,0,,0,,335,23.13,3.7,4.8,Card
+2024-02-29,06:14:00,CNR2240570098,"Driver Not Found",511439,"Prime SUV","Area 11","Area 17",0,0,0,,0,,0,,496,0,0,0,Cash
+2024-02-21,11:13:00,CNR4636885407,Success,331231,"Prime SUV","Area 22","Area 21",4.56316,24.0392,0,,0,,0,,205,12.46,4.6,5,Cash
+2024-02-03,05:06:00,CNR7168893231,Success,573237,"Prime Plus","Area 48","Area 24",7.15458,23.5352,0,,0,,0,,445,7.75,3.3,4.4,Cash
+2024-02-10,04:17:00,CNR7625010957,"Cancelled By Driver",170792,"Prime Plus","Area 1","Area 29",0,0,0,,1,"Customer related issue",0,,805,0,0,0,UPI
+2024-02-15,14:59:00,CNR3059978556,"Driver Not Found",802308,"Prime Sedan","Area 13","Area 1",0,0,0,,0,,0,,196,0,0,0,Card
+2024-02-16,22:37:00,CNR4278623470,Success,219960,Bike,"Area 5","Area 30",9.62924,8.87345,0,,0,,0,,364,8.3,4.8,3.4,UPI
+2024-02-10,03:51:00,CNR4009420593,Success,599407,Bike,"Area 40","Area 7",5.43419,23.9269,0,,0,,0,,192,9.72,3.2,4.5,Cash
+2024-02-27,07:50:00,CNR8052996964,Success,403135,"Prime Plus","Area 26","Area 28",9.30484,21.2393,0,,0,,0,,751,6.91,4.2,3.4,Card
+2024-02-27,23:50:00,CNR1397379290,Success,381158,Mini,"Area 13","Area 22",3.38489,12.8316,0,,0,,0,,240,12.64,4.7,3.7,Cash
+2024-02-09,14:17:00,CNR5566486291,Success,417065,eBike,"Area 21","Area 15",10.9872,13.7608,0,,0,,0,,279,20.9,3,3.1,Card
+2024-02-15,14:57:00,CNR1981581395,Success,769349,"Prime Sedan","Area 10","Area 20",14.6687,17.6763,0,,0,,0,,723,2.04,3.3,4.7,UPI
+2024-02-01,05:58:00,CNR1087633441,"Driver Not Found",731518,Bike,"Area 28","Area 13",0,0,0,,0,,0,,668,0,0,0,Cash
+2024-02-02,16:33:00,CNR2560750854,Success,748320,"Prime SUV","Area 29","Area 25",6.09068,14.808,0,,0,,0,,934,19.19,3.2,4.1,Cash
+2024-02-11,06:00:00,CNR8629292346,"Cancelled by Customer",150514,"Prime Plus","Area 37","Area 36",0,0,1,"Driver is not moving towards pickup location",0,,0,,865,0,0,0,Cash
+2024-02-11,10:45:00,CNR2393487680,Success,392740,Mini,"Area 11","Area 13",4.94303,14.8227,0,,0,,0,,303,5.59,3.3,5,Cash
+2024-02-24,23:19:00,CNR8008866390,Success,449143,"Prime SUV","Area 48","Area 44",14.5562,20.3532,0,,0,,0,,900,5.59,3.4,3.8,UPI
+2024-02-04,11:15:00,CNR5664020825,Success,801184,"Prime Plus","Area 20","Area 19",14.6621,8.9357,0,,0,,0,,487,10.64,3.2,3.2,UPI
+2024-02-13,04:15:00,CNR5462273728,"Cancelled By Driver",259839,"Prime Plus","Area 8","Area 43",0,0,0,,1,"Customer related issue",0,,135,0,0,0,UPI
+2024-02-15,22:01:00,CNR8297620257,Success,451332,Mini,"Area 22","Area 40",11.6761,21.5083,0,,0,,0,,134,19.4,4.9,3.8,Card
+2024-02-10,23:11:00,CNR4835076673,Success,959998,"Prime Sedan","Area 5","Area 4",8.4356,16.1471,0,,0,,1,"Vehicle Breakdown",592,3.74,4.7,4.7,Cash
+2024-02-04,08:16:00,CNR9827132883,Success,593341,Auto,"Area 28","Area 10",7.82022,24.0231,0,,0,,0,,171,23.91,4.1,3.8,UPI
+2024-02-17,21:34:00,CNR7744652698,Success,952158,eBike,"Area 21","Area 20",14.1791,5.71621,0,,0,,0,,232,18.19,3.4,4.3,UPI
+2024-02-11,21:24:00,CNR9484138698,Success,833776,"Prime Sedan","Area 22","Area 17",9.8599,18.6061,0,,0,,0,,164,5.08,4.7,3,UPI
+2024-02-13,03:56:00,CNR8092194113,Success,222625,Auto,"Area 41","Area 34",6.21492,13.6054,0,,0,,1,"Other Issue",366,22.5,4.2,3.1,Cash
+2024-02-20,10:59:00,CNR5575784235,"Cancelled By Driver",632431,Bike,"Area 47","Area 22",0,0,0,,1,"Personal & Car related issues",0,,238,0,0,0,UPI
+2024-02-23,06:39:00,CNR3861780252,Success,552800,eBike,"Area 25","Area 6",8.05324,19.8863,0,,0,,0,,768,9.78,4.2,3.5,Cash
+2024-02-22,17:02:00,CNR4076857948,Success,169932,Bike,"Area 33","Area 16",3.87927,15.8445,0,,0,,0,,353,20.42,4.2,3.7,Card
+2024-02-18,01:44:00,CNR1335056823,Success,574586,Auto,"Area 8","Area 10",5.74344,10.7098,0,,0,,0,,471,7.37,3.6,4.4,Cash
+2024-02-24,11:20:00,CNR8262146446,Success,872070,Auto,"Area 38","Area 27",9.68814,14.2325,0,,0,,0,,421,3.56,4.9,4.7,Card
+2024-02-10,16:54:00,CNR7455091468,"Driver Not Found",650954,Mini,"Area 1","Area 43",0,0,0,,0,,0,,285,0,0,0,Cash
+2024-02-07,13:41:00,CNR2655172279,"Driver Not Found",715245,"Prime SUV","Area 19","Area 32",0,0,0,,0,,0,,229,0,0,0,Cash
+2024-02-28,21:19:00,CNR3769932191,"Driver Not Found",203461,Mini,"Area 11","Area 15",0,0,0,,0,,0,,302,0,0,0,Card
+2024-02-03,20:02:00,CNR5153646398,"Cancelled By Driver",166283,"Prime Plus","Area 32","Area 28",0,0,0,,1,"Personal & Car related issues",0,,377,0,0,0,Card
+2024-02-07,14:16:00,CNR4460061046,"Driver Not Found",862183,Auto,"Area 47","Area 32",0,0,0,,0,,0,,716,0,0,0,Card
+2024-02-07,08:18:00,CNR1373325288,"Cancelled by Customer",651592,Auto,"Area 21","Area 20",0,0,1,"Wrong Address",0,,0,,275,0,0,0,Cash
+2024-02-21,23:54:00,CNR2040129908,Success,427427,"Prime Sedan","Area 46","Area 1",9.92154,22.4666,0,,0,,0,,301,14.58,4.5,3.6,Card
+2024-02-18,20:17:00,CNR5782736268,"Cancelled By Driver",146310,"Prime SUV","Area 15","Area 27",0,0,0,,1,"The customer was coughing/sick",0,,354,0,0,0,UPI
+2024-02-05,06:12:00,CNR4261492888,Success,187500,Auto,"Area 34","Area 11",6.77351,18.9087,0,,0,,0,,952,9.09,3.5,4.9,UPI
+2024-02-29,01:24:00,CNR1817121643,Success,911752,"Prime Sedan","Area 5","Area 12",13.105,18.8841,0,,0,,0,,959,7.24,4.5,4.1,UPI
+2024-02-07,17:23:00,CNR4193049518,Success,653012,"Prime Plus","Area 38","Area 25",11.4823,16.0086,0,,0,,0,,423,8.71,3.4,3.9,Cash
+2024-02-03,03:18:00,CNR6271767773,Success,938697,Auto,"Area 42","Area 20",9.77528,16.287,0,,0,,0,,347,22.78,4.5,4.8,Cash
+2024-02-17,00:14:00,CNR4362165221,"Cancelled by Customer",964022,"Prime Plus","Area 10","Area 21",0,0,1,"Driver asked to cancel",0,,0,,233,0,0,0,Cash
+2024-02-10,00:45:00,CNR6594717497,Success,795689,Auto,"Area 31","Area 32",13.6444,8.82326,0,,0,,0,,620,2.1,3.5,4.1,Cash
+2024-02-28,04:01:00,CNR2285531606,"Cancelled By Driver",239084,eBike,"Area 3","Area 10",0,0,0,,1,"More than permitted people in there",0,,131,0,0,0,Card
+2024-02-27,12:20:00,CNR1487951271,Success,199821,Auto,"Area 2","Area 32",11.2754,22.0185,0,,0,,1,"Vehicle Breakdown",646,21.9,3.8,3.2,Card
+2024-02-10,00:38:00,CNR2996162956,"Cancelled by Customer",119275,eBike,"Area 20","Area 8",0,0,1,"Change of plans",0,,0,,106,0,0,0,UPI
+2024-02-12,21:54:00,CNR3476819232,"Cancelled By Driver",103251,Bike,"Area 23","Area 11",0,0,0,,1,"More than permitted people in there",0,,590,0,0,0,Card
+2024-02-01,23:12:00,CNR2826196453,Success,679309,"Prime Sedan","Area 31","Area 20",12.4951,24.4561,0,,0,,0,,486,16.53,4.1,3.3,UPI
+2024-02-16,12:14:00,CNR5041200569,Success,621205,Mini,"Area 21","Area 26",7.20719,21.2769,0,,0,,0,,650,8.73,3.1,3.9,Cash
+2024-02-24,23:59:00,CNR5079730623,"Driver Not Found",903087,Bike,"Area 42","Area 7",0,0,0,,0,,0,,143,0,0,0,Cash
+2024-02-09,17:53:00,CNR4993677740,Success,977429,Auto,"Area 3","Area 34",4.87102,14.7122,0,,0,,0,,331,24.17,3.7,4.8,Cash
+2024-02-18,06:52:00,CNR1021693411,"Driver Not Found",436535,Bike,"Area 33","Area 44",0,0,0,,0,,0,,358,0,0,0,Cash
+2024-02-03,03:37:00,CNR7775078984,"Cancelled By Driver",265844,Bike,"Area 39","Area 5",0,0,0,,1,"Customer related issue",0,,929,0,0,0,UPI
+2024-02-29,15:54:00,CNR6705175814,Success,406820,eBike,"Area 33","Area 18",13.6432,21.1378,0,,0,,0,,1125,3.27,3.3,3.8,Cash
+2024-02-27,12:04:00,CNR9070346444,"Cancelled by Customer",545623,Bike,"Area 49","Area 34",0,0,1,"Driver is not moving towards pickup location",0,,0,,428,0,0,0,Card
+2024-02-11,09:16:00,CNR3068911912,Success,827589,eBike,"Area 1","Area 35",4.4065,20.1105,0,,0,,1,"Vehicle Breakdown",351,23.59,4.7,4.1,Card
+2024-02-12,08:54:00,CNR1661664376,Success,473443,"Prime Plus","Area 45","Area 46",14.4299,14.8568,0,,0,,0,,207,12.34,3.3,4.7,Cash
+2024-02-03,22:16:00,CNR2156833705,"Driver Not Found",347648,eBike,"Area 12","Area 37",0,0,0,,0,,0,,446,0,0,0,Cash
+2024-02-03,01:57:00,CNR9927292332,"Driver Not Found",255000,Mini,"Area 6","Area 13",0,0,0,,0,,0,,382,0,0,0,Cash
+2024-02-11,19:07:00,CNR5722841825,"Driver Not Found",997862,eBike,"Area 47","Area 37",0,0,0,,0,,0,,119,0,0,0,Cash
+2024-02-03,19:38:00,CNR2646577128,Success,663371,"Prime SUV","Area 11","Area 47",11.4059,18.1566,0,,0,,0,,133,4.78,3.5,3.4,UPI
+2024-02-06,00:41:00,CNR9817732946,Success,650731,"Prime SUV","Area 33","Area 18",10.9813,10.6427,0,,0,,0,,3888,8.56,3.3,3.9,Card
+2024-02-04,09:53:00,CNR5667464391,Success,704165,eBike,"Area 43","Area 18",6.43879,14.8588,0,,0,,0,,411,22.48,4.8,3.6,Cash
+2024-02-04,23:19:00,CNR1224520782,"Cancelled By Driver",697343,"Prime Sedan","Area 29","Area 5",0,0,0,,1,"More than permitted people in there",0,,439,0,0,0,Card
+2024-02-16,03:55:00,CNR5991661508,"Driver Not Found",616747,Bike,"Area 23","Area 27",0,0,0,,0,,0,,211,0,0,0,Card
+2024-02-25,15:31:00,CNR5736365421,Success,998187,"Prime Sedan","Area 21","Area 30",10.6821,20.5779,0,,0,,0,,236,9.56,4.4,4.5,Cash
+2024-02-24,19:43:00,CNR3712343635,Success,696335,"Prime SUV","Area 15","Area 34",8.78496,17.7384,0,,0,,0,,153,3.9,4.2,3.1,UPI
+2024-02-06,19:38:00,CNR9459958235,Success,132376,"Prime SUV","Area 36","Area 17",11.553,12.042,0,,0,,0,,754,17.88,3.9,4.2,Cash
+2024-02-02,09:53:00,CNR4702744416,"Cancelled By Driver",498904,Mini,"Area 12","Area 23",0,0,0,,1,"More than permitted people in there",0,,496,0,0,0,Cash
+2024-02-16,16:34:00,CNR3659867498,"Cancelled By Driver",202681,"Prime Plus","Area 9","Area 5",0,0,0,,1,"More than permitted people in there",0,,108,0,0,0,Cash
+2024-02-22,01:36:00,CNR2057193601,Success,110595,"Prime SUV","Area 44","Area 36",12.3059,14.8877,0,,0,,0,,557,19.46,4.1,4.1,Card
+2024-02-24,21:51:00,CNR9469439722,Success,377827,eBike,"Area 50","Area 40",11.2113,8.60325,0,,0,,0,,284,9.09,3.3,4.5,Cash
+2024-02-21,17:59:00,CNR8806286786,"Cancelled By Driver",196893,"Prime Sedan","Area 16","Area 6",0,0,0,,1,"The customer was coughing/sick",0,,593,0,0,0,UPI
+2024-02-07,18:49:00,CNR1148761796,"Cancelled By Driver",269239,Mini,"Area 3","Area 49",0,0,0,,1,"Personal & Car related issues",0,,423,0,0,0,Card
+2024-02-14,02:17:00,CNR1751295272,Success,513961,Mini,"Area 8","Area 48",14.7981,22.0261,0,,0,,0,,293,15.57,3.3,3.4,Cash
+2024-02-09,05:57:00,CNR8117165990,"Cancelled by Customer",664013,Bike,"Area 14","Area 2",0,0,1,"Wrong Address",0,,0,,936,0,0,0,Card
+2024-02-02,01:25:00,CNR8348335875,"Cancelled by Customer",416734,"Prime Sedan","Area 19","Area 4",0,0,1,"Driver is not moving towards pickup location",0,,0,,427,0,0,0,UPI
+2024-02-24,12:51:00,CNR8497027035,"Cancelled By Driver",452332,"Prime SUV","Area 41","Area 22",0,0,0,,1,"The customer was coughing/sick",0,,190,0,0,0,UPI
+2024-02-11,20:35:00,CNR3991009340,"Cancelled By Driver",691139,"Prime Sedan","Area 6","Area 31",0,0,0,,1,"More than permitted people in there",0,,332,0,0,0,Cash
+2024-02-24,12:31:00,CNR5757787496,Success,163596,Bike,"Area 6","Area 45",3.52997,7.49484,0,,0,,0,,187,16.93,3.7,4.7,Cash
+2024-02-01,12:51:00,CNR7249586667,Success,143243,Mini,"Area 46","Area 30",6.85655,16.3856,0,,0,,0,,181,18.41,4.2,4.4,Card
+2024-02-02,04:20:00,CNR5079226705,"Cancelled By Driver",355914,Mini,"Area 11","Area 13",0,0,0,,1,"More than permitted people in there",0,,300,0,0,0,Cash
+2024-02-13,03:18:00,CNR1079580182,"Cancelled by Customer",266003,eBike,"Area 43","Area 17",0,0,1,"Change of plans",0,,0,,952,0,0,0,Cash
+2024-02-22,10:38:00,CNR1163458412,"Driver Not Found",497319,Auto,"Area 16","Area 17",0,0,0,,0,,0,,200,0,0,0,UPI
+2024-02-14,13:47:00,CNR4885638651,Success,973945,Auto,"Area 4","Area 2",8.81987,12.1406,0,,0,,0,,635,2.25,4.6,3.6,UPI
+2024-02-02,01:34:00,CNR3511507284,Success,495357,Mini,"Area 5","Area 20",13.4046,16.9027,0,,0,,0,,226,2.48,4.9,4.6,UPI
+2024-02-06,11:53:00,CNR9863293391,"Driver Not Found",271778,"Prime Plus","Area 2","Area 43",0,0,0,,0,,0,,269,0,0,0,Cash
+2024-02-16,09:24:00,CNR5081652954,"Cancelled By Driver",632827,"Prime Sedan","Area 30","Area 35",0,0,0,,1,"More than permitted people in there",0,,543,0,0,0,UPI
+2024-02-09,00:54:00,CNR7536973496,Success,494211,"Prime Plus","Area 31","Area 37",4.21207,23.1967,0,,0,,0,,440,7.6,3.7,4,Cash
+2024-02-20,22:14:00,CNR2178721869,Success,844183,"Prime Plus","Area 20","Area 33",12.6317,6.76752,0,,0,,0,,119,21.38,4.8,4.5,UPI
+2024-02-26,04:22:00,CNR3682138543,Success,782466,Mini,"Area 35","Area 43",11.2186,21.5488,0,,0,,1,"Other Issue",195,11.19,4.4,3.3,Cash
+2024-02-27,15:23:00,CNR5923829724,Success,571452,Bike,"Area 24","Area 17",3.95252,24.3297,0,,0,,0,,127,2.95,4.6,4.7,UPI
+2024-02-23,16:41:00,CNR5258378112,Success,202938,eBike,"Area 21","Area 36",14.7782,9.6395,0,,0,,0,,463,5.61,3.8,3.5,UPI
+2024-02-20,13:48:00,CNR2958781749,Success,128677,Mini,"Area 33","Area 39",8.97081,16.7954,0,,0,,0,,809,21.69,4.2,3.7,Cash
+2024-02-06,18:59:00,CNR4891195261,Success,398166,Bike,"Area 20","Area 33",14.8281,16.6436,0,,0,,1,"Other Issue",756,16.08,3.6,4,UPI
+2024-02-02,12:17:00,CNR9604313459,Success,487607,Bike,"Area 19","Area 38",13.3669,19.5425,0,,0,,0,,310,4.6,4.3,3.6,Cash
+2024-02-08,09:32:00,CNR4217256566,"Cancelled by Customer",814871,"Prime Plus","Area 7","Area 35",0,0,1,"Change of plans",0,,0,,415,0,0,0,Card
+2024-02-14,09:48:00,CNR3208817041,Success,201430,Mini,"Area 3","Area 26",10.0007,11.2428,0,,0,,0,,187,23.97,3.5,3.7,Cash
+2024-02-10,10:36:00,CNR2136074560,Success,430188,"Prime Plus","Area 16","Area 21",12.9061,7.21641,0,,0,,0,,186,8.33,4.7,3.9,Cash
+2024-02-21,10:22:00,CNR9695772471,Success,523362,"Prime Plus","Area 36","Area 46",13.5685,14.1951,0,,0,,0,,622,22.64,4.9,3.4,UPI
+2024-02-23,05:31:00,CNR4981864775,"Driver Not Found",229767,Auto,"Area 16","Area 26",0,0,0,,0,,0,,485,0,0,0,UPI
+2024-02-11,17:04:00,CNR9392144558,"Cancelled By Driver",523446,"Prime Sedan","Area 45","Area 46",0,0,0,,1,"Personal & Car related issues",0,,600,0,0,0,Card
+2024-02-29,09:38:00,CNR8804772418,"Driver Not Found",257526,"Prime Sedan","Area 21","Area 19",0,0,0,,0,,0,,211,0,0,0,Cash
+2024-02-04,15:36:00,CNR2042146761,"Cancelled By Driver",275394,eBike,"Area 2","Area 42",0,0,0,,1,"Customer related issue",0,,460,0,0,0,UPI
+2024-02-29,13:12:00,CNR7862369334,Success,955051,"Prime SUV","Area 29","Area 29",12.8704,21.8226,0,,0,,1,"Other Issue",879,23.58,3.5,3.2,Cash
+2024-02-29,11:56:00,CNR6730508905,"Driver Not Found",564328,Auto,"Area 28","Area 41",0,0,0,,0,,0,,744,0,0,0,Cash
+2024-02-16,04:39:00,CNR3583440478,"Cancelled By Driver",143643,Bike,"Area 35","Area 23",0,0,0,,1,"The customer was coughing/sick",0,,331,0,0,0,Cash
+2024-02-20,17:08:00,CNR5540163205,Success,528358,"Prime Sedan","Area 24","Area 25",5.06542,24.6474,0,,0,,0,,867,22.51,5,4,Cash
+2024-02-01,07:02:00,CNR2608011160,Success,878442,Mini,"Area 38","Area 41",6.77704,5.31451,0,,0,,0,,107,24.7,3.5,4.4,UPI
+2024-02-20,23:31:00,CNR5180721431,Success,833647,"Prime Plus","Area 47","Area 23",5.33823,24.4289,0,,0,,0,,637,3.78,4,4.5,Cash
+2024-02-06,01:01:00,CNR5876817987,Success,450845,eBike,"Area 38","Area 27",8.90361,7.08406,0,,0,,0,,402,24.97,4.5,3.2,UPI
+2024-02-01,11:26:00,CNR5030144872,Success,223874,Auto,"Area 37","Area 41",14.552,12.2151,0,,0,,0,,264,17.12,3.3,4.1,Cash
+2024-02-01,03:55:00,CNR8013294140,Success,212011,"Prime SUV","Area 18","Area 21",10.7706,23.7255,0,,0,,0,,985,21.33,4.5,4.1,UPI
+2024-02-25,02:07:00,CNR1465808736,Success,110680,eBike,"Area 3","Area 29",4.75386,22.1312,0,,0,,0,,447,16.42,3.1,3.4,UPI
+2024-02-01,09:54:00,CNR9447126182,"Cancelled By Driver",413544,Auto,"Area 10","Area 28",0,0,0,,1,"More than permitted people in there",0,,1369,0,0,0,UPI
+2024-02-17,05:24:00,CNR8020597769,"Cancelled By Driver",654761,Mini,"Area 37","Area 1",0,0,0,,1,"Personal & Car related issues",0,,101,0,0,0,Card
+2024-02-07,04:14:00,CNR5131449995,Success,788628,"Prime Plus","Area 2","Area 39",8.89528,6.00222,0,,0,,0,,362,8.6,4.8,3.7,UPI
+2024-02-26,11:33:00,CNR5470466263,Success,507360,"Prime Sedan","Area 2","Area 42",13.6442,12.846,0,,0,,0,,236,3.63,4.8,4.4,Cash
+2024-02-15,05:41:00,CNR6034181791,Success,439464,eBike,"Area 6","Area 25",3.37493,8.02916,0,,0,,0,,3726,11.36,3.6,4.6,Card
+2024-02-08,05:40:00,CNR1895177197,"Cancelled By Driver",925677,Auto,"Area 35","Area 17",0,0,0,,1,"Customer related issue",0,,246,0,0,0,UPI
+2024-02-08,02:15:00,CNR1244425152,"Cancelled By Driver",867962,Mini,"Area 49","Area 24",0,0,0,,1,"Customer related issue",0,,154,0,0,0,UPI
+2024-02-17,19:51:00,CNR8538338573,Success,159194,eBike,"Area 39","Area 49",6.93021,19.2364,0,,0,,0,,529,24.75,3.2,3.5,Card
+2024-02-01,11:39:00,CNR4881782573,"Driver Not Found",778230,"Prime Plus","Area 40","Area 13",0,0,0,,0,,0,,455,0,0,0,Cash
+2024-02-23,00:06:00,CNR8682193145,"Cancelled By Driver",266489,"Prime Sedan","Area 46","Area 11",0,0,0,,1,"Personal & Car related issues",0,,317,0,0,0,Cash
+2024-02-03,02:25:00,CNR2068336257,"Driver Not Found",885754,Auto,"Area 11","Area 27",0,0,0,,0,,0,,392,0,0,0,Card
+2024-02-27,05:30:00,CNR2376538330,"Cancelled By Driver",571194,Auto,"Area 17","Area 50",0,0,0,,1,"Personal & Car related issues",0,,394,0,0,0,UPI
+2024-02-04,03:08:00,CNR5274771949,Success,537824,Mini,"Area 11","Area 48",7.20885,23.6317,0,,0,,0,,435,12.84,4,4.2,UPI
+2024-02-18,03:44:00,CNR7307945277,Success,629581,Auto,"Area 12","Area 24",13.4751,6.2463,0,,0,,0,,567,9.68,3.3,4.3,UPI
+2024-02-08,01:47:00,CNR8296398206,Success,310406,Bike,"Area 1","Area 46",7.4867,7.43276,0,,0,,0,,454,9.12,4,3.8,UPI
+2024-02-15,14:18:00,CNR5006188440,"Driver Not Found",426795,"Prime Sedan","Area 41","Area 39",0,0,0,,0,,0,,278,0,0,0,UPI
+2024-02-18,09:38:00,CNR4677126701,Success,308377,"Prime Sedan","Area 15","Area 29",13.4256,7.17571,0,,0,,0,,299,7.82,4.8,4.8,Cash
+2024-02-16,18:07:00,CNR1732112361,Success,735688,"Prime Plus","Area 50","Area 19",10.1748,13.901,0,,0,,0,,463,13.95,3.3,3.4,Cash
+2024-02-13,07:28:00,CNR3101304440,Success,549872,"Prime SUV","Area 4","Area 5",13.689,20.6355,0,,0,,1,"Vehicle Breakdown",4702,8.43,4.9,4,Cash
+2024-02-25,10:14:00,CNR5819813672,"Driver Not Found",922790,Mini,"Area 27","Area 37",0,0,0,,0,,0,,984,0,0,0,Cash
+2024-02-09,22:16:00,CNR8057476746,Success,131132,"Prime SUV","Area 41","Area 1",9.92868,6.35274,0,,0,,0,,237,2.97,3.3,3,Card
+2024-02-02,09:55:00,CNR5374701739,Success,425241,Mini,"Area 28","Area 27",13.3274,20.1287,0,,0,,0,,352,5.49,3,3.3,Cash
+2024-02-04,00:08:00,CNR4678348569,"Driver Not Found",965018,eBike,"Area 37","Area 33",0,0,0,,0,,0,,333,0,0,0,UPI
+2024-02-08,12:54:00,CNR1494885642,Success,606937,eBike,"Area 3","Area 49",8.14729,18.2333,0,,0,,0,,184,10.75,4.2,3.9,Cash
+2024-02-13,11:57:00,CNR2480496504,"Cancelled By Driver",137081,Auto,"Area 3","Area 1",0,0,0,,1,"Personal & Car related issues",0,,642,0,0,0,Card
+2024-02-02,20:58:00,CNR8071946374,Success,156399,Mini,"Area 36","Area 13",4.29045,16.8658,0,,0,,0,,377,16.65,3.8,3.9,Cash
+2024-02-25,09:45:00,CNR1671298854,Success,415743,eBike,"Area 9","Area 15",9.82846,14.8241,0,,0,,0,,196,17.06,4.5,4.2,UPI
+2024-02-20,17:04:00,CNR8896179683,Success,905725,Mini,"Area 50","Area 34",3.95118,13.3668,0,,0,,0,,801,22.34,3.9,3.1,Cash
+2024-02-04,18:40:00,CNR9835989483,Success,396881,Bike,"Area 28","Area 47",13.1266,23.0959,0,,0,,0,,427,13.36,3.5,5,Cash
+2024-02-01,16:45:00,CNR3956693928,"Cancelled by Customer",664158,"Prime Sedan","Area 16","Area 28",0,0,1,"Driver asked to cancel",0,,0,,476,0,0,0,UPI
+2024-02-24,21:09:00,CNR1647695323,"Driver Not Found",199852,Auto,"Area 44","Area 31",0,0,0,,0,,0,,342,0,0,0,Cash
+2024-02-21,16:57:00,CNR7086278994,Success,287114,"Prime Plus","Area 16","Area 49",12.4343,5.30316,0,,0,,0,,404,12.98,3.6,4.2,Cash
+2024-02-10,13:20:00,CNR3793918216,"Cancelled By Driver",192830,Bike,"Area 18","Area 14",0,0,0,,1,"The customer was coughing/sick",0,,409,0,0,0,UPI
+2024-02-25,23:46:00,CNR5956807360,Success,556407,eBike,"Area 18","Area 27",8.34143,10.3672,0,,0,,0,,580,5.95,3.1,4.9,Card
+2024-02-16,23:11:00,CNR2159973256,Success,668888,"Prime Plus","Area 10","Area 20",6.58064,24.6761,0,,0,,0,,320,9.8,4,4.2,Cash
+2024-02-25,11:30:00,CNR8944777126,Success,585024,"Prime SUV","Area 4","Area 5",9.12947,10.3882,0,,0,,0,,275,20.85,4.9,4.2,Cash
+2024-02-21,19:04:00,CNR1594158872,Success,136388,"Prime Plus","Area 18","Area 49",8.46773,20.6835,0,,0,,0,,325,13.75,3,3.6,UPI
+2024-02-05,00:04:00,CNR2627989325,Success,379083,"Prime Plus","Area 29","Area 28",14.5047,23.2192,0,,0,,0,,150,2.83,3.9,3.9,Cash
+2024-02-12,21:39:00,CNR2227212508,Success,859188,Mini,"Area 23","Area 2",9.24267,18.5108,0,,0,,0,,342,7.8,4,4.6,Card
+2024-02-16,20:26:00,CNR1681226356,Success,392620,Bike,"Area 18","Area 25",10.2405,10.2949,0,,0,,0,,233,2.78,4.3,4.6,UPI
+2024-02-08,19:58:00,CNR8708913354,Success,599688,Bike,"Area 37","Area 37",3.0371,6.00347,0,,0,,0,,658,23.81,3.7,3.7,Cash
+2024-02-12,08:24:00,CNR9295881470,Success,996995,"Prime Sedan","Area 19","Area 14",9.3075,9.76631,0,,0,,0,,141,14.49,4.9,4.6,Cash
+2024-02-02,18:29:00,CNR5411490050,"Cancelled By Driver",999465,"Prime Plus","Area 31","Area 22",0,0,0,,1,"Customer related issue",0,,102,0,0,0,Cash
+2024-02-23,12:16:00,CNR8296643134,Success,950612,"Prime Sedan","Area 20","Area 32",6.94405,22.4161,0,,0,,0,,739,4.09,3.4,3.1,Cash
+2024-02-25,11:02:00,CNR7781015259,Success,296108,"Prime SUV","Area 50","Area 6",7.02597,18.3554,0,,0,,0,,211,15.67,4.6,4.5,UPI
+2024-02-25,07:31:00,CNR5669612240,"Cancelled By Driver",524861,Mini,"Area 9","Area 27",0,0,0,,1,"The customer was coughing/sick",0,,664,0,0,0,Card
+2024-02-15,06:01:00,CNR2432123220,"Cancelled By Driver",873480,"Prime SUV","Area 5","Area 44",0,0,0,,1,"Personal & Car related issues",0,,591,0,0,0,Cash
+2024-02-06,20:39:00,CNR5390050597,"Driver Not Found",373733,"Prime Plus","Area 38","Area 34",0,0,0,,0,,0,,422,0,0,0,Cash
+2024-02-10,01:06:00,CNR4703847746,Success,368440,"Prime SUV","Area 34","Area 42",12.8549,12.8612,0,,0,,0,,146,8.75,4.3,4.6,Card
+2024-02-15,21:47:00,CNR8040611038,"Driver Not Found",282801,"Prime SUV","Area 50","Area 43",0,0,0,,0,,0,,185,0,0,0,Cash
+2024-02-15,10:41:00,CNR3989209570,"Driver Not Found",193239,"Prime Plus","Area 14","Area 8",0,0,0,,0,,0,,744,0,0,0,UPI
+2024-02-25,14:36:00,CNR9992290141,"Cancelled by Customer",554059,"Prime Plus","Area 36","Area 19",0,0,1,"Change of plans",0,,0,,342,0,0,0,Cash
+2024-02-22,13:20:00,CNR6720238297,Success,293013,Mini,"Area 34","Area 28",4.78508,13.8905,0,,0,,0,,3435,14.98,4.7,4.7,Cash
+2024-02-10,17:04:00,CNR4505534967,"Driver Not Found",396100,"Prime Sedan","Area 18","Area 29",0,0,0,,0,,0,,113,0,0,0,UPI
+2024-02-14,22:25:00,CNR5749022329,Success,419319,"Prime Sedan","Area 2","Area 50",3.24092,21.9501,0,,0,,0,,492,24.38,4.7,3.9,Cash
+2024-02-12,22:05:00,CNR3202563121,Success,269999,"Prime Plus","Area 6","Area 2",11.9063,10.2742,0,,0,,0,,128,2.28,4.3,4.1,UPI
+2024-02-24,04:45:00,CNR1911178031,"Driver Not Found",133697,eBike,"Area 42","Area 13",0,0,0,,0,,0,,670,0,0,0,Cash
+2024-02-10,10:35:00,CNR2217565794,Success,413180,"Prime Sedan","Area 40","Area 14",10.8174,10.3316,0,,0,,0,,250,3.4,4.8,4.6,Card
+2024-02-27,06:39:00,CNR5738432068,"Cancelled by Customer",481592,Bike,"Area 45","Area 5",0,0,1,"AC is not working",0,,0,,252,0,0,0,Cash
+2024-02-07,22:43:00,CNR6365821317,Success,385606,Auto,"Area 19","Area 9",10.365,6.64341,0,,0,,0,,338,7.64,4,3.5,Card
+2024-02-04,15:54:00,CNR1482609831,Success,274257,"Prime Plus","Area 28","Area 20",6.59431,9.12437,0,,0,,0,,136,4.38,3.6,3.7,UPI
+2024-02-07,22:35:00,CNR9051252099,Success,304039,"Prime Plus","Area 34","Area 6",7.6325,20.6665,0,,0,,0,,464,20.64,3.6,3.6,Cash
+2024-02-29,21:20:00,CNR5009995057,"Driver Not Found",888576,"Prime Sedan","Area 14","Area 22",0,0,0,,0,,0,,256,0,0,0,UPI
+2024-02-15,23:18:00,CNR8810939327,"Driver Not Found",952053,"Prime SUV","Area 31","Area 39",0,0,0,,0,,0,,294,0,0,0,Cash
+2024-02-05,02:25:00,CNR2559850413,"Cancelled By Driver",806072,eBike,"Area 16","Area 36",0,0,0,,1,"More than permitted people in there",0,,721,0,0,0,Card
+2024-02-15,05:43:00,CNR4301835534,"Cancelled by Customer",165128,"Prime Sedan","Area 47","Area 26",0,0,1,"Driver asked to cancel",0,,0,,279,0,0,0,Card
+2024-02-07,19:59:00,CNR5452337058,Success,554990,eBike,"Area 5","Area 34",14.9746,22.6272,0,,0,,0,,419,5.55,3.9,4.7,Cash
+2024-02-03,03:44:00,CNR1612495193,Success,719457,"Prime Plus","Area 18","Area 25",12.4724,23.2707,0,,0,,0,,458,16.53,3.5,4.8,Card
+2024-02-24,10:01:00,CNR9029690592,Success,147025,Auto,"Area 31","Area 24",6.28267,15.3015,0,,0,,0,,211,16.22,4,3.6,Cash
+2024-02-19,23:57:00,CNR9954304029,"Cancelled by Customer",440529,"Prime SUV","Area 42","Area 12",0,0,1,"Change of plans",0,,0,,213,0,0,0,Card
+2024-02-01,13:39:00,CNR2490720012,"Cancelled by Customer",263440,Auto,"Area 48","Area 46",0,0,1,"Change of plans",0,,0,,448,0,0,0,Cash
+2024-02-10,09:44:00,CNR3596307945,"Cancelled By Driver",321343,"Prime SUV","Area 17","Area 6",0,0,0,,1,"More than permitted people in there",0,,429,0,0,0,UPI
+2024-02-20,15:27:00,CNR9519722129,"Cancelled By Driver",305828,eBike,"Area 11","Area 9",0,0,0,,1,"Personal & Car related issues",0,,238,0,0,0,Cash
+2024-02-25,11:29:00,CNR1837354519,"Driver Not Found",991540,Mini,"Area 1","Area 21",0,0,0,,0,,0,,223,0,0,0,Card
+2024-02-02,04:24:00,CNR3972778729,"Driver Not Found",171917,"Prime Plus","Area 29","Area 44",0,0,0,,0,,0,,110,0,0,0,Cash
+2024-02-24,13:19:00,CNR3399103875,"Driver Not Found",203676,eBike,"Area 9","Area 50",0,0,0,,0,,0,,114,0,0,0,UPI
+2024-02-14,15:26:00,CNR3367499344,"Driver Not Found",801496,"Prime SUV","Area 23","Area 28",0,0,0,,0,,0,,523,0,0,0,Cash
+2024-02-16,08:30:00,CNR5062824231,Success,537849,"Prime Sedan","Area 47","Area 43",9.12861,23.292,0,,0,,0,,148,22.9,3.2,4.8,Card
+2024-02-17,02:09:00,CNR6891751520,Success,673662,"Prime Sedan","Area 47","Area 35",14.3174,22.1034,0,,0,,0,,479,2.63,3,3.4,Cash
+2024-02-07,20:39:00,CNR9921577770,Success,297200,Bike,"Area 30","Area 12",8.21498,10.1858,0,,0,,0,,216,24.06,3.8,4.5,UPI
+2024-02-10,04:52:00,CNR1138822879,Success,337191,Auto,"Area 36","Area 20",8.83675,5.33763,0,,0,,0,,176,20.43,4.4,4.5,Cash
+2024-02-28,18:26:00,CNR6919250550,"Cancelled By Driver",145131,Auto,"Area 2","Area 1",0,0,0,,1,"Customer related issue",0,,946,0,0,0,Card
+2024-02-21,10:29:00,CNR9194117951,Success,460374,Auto,"Area 21","Area 9",11.5361,19.0961,0,,0,,0,,169,11.06,4.9,4.6,Card
+2024-02-16,02:05:00,CNR9318417250,"Cancelled By Driver",758343,Bike,"Area 20","Area 22",0,0,0,,1,"Personal & Car related issues",0,,616,0,0,0,Card
+2024-02-13,19:10:00,CNR9677339776,"Cancelled By Driver",391284,"Prime SUV","Area 31","Area 47",0,0,0,,1,"Personal & Car related issues",0,,950,0,0,0,Card
+2024-02-18,12:13:00,CNR3710661452,Success,576933,Bike,"Area 33","Area 15",13.3563,10.9495,0,,0,,0,,432,22.79,4.5,3.9,Cash
+2024-02-10,01:38:00,CNR7564684224,Success,641040,"Prime Plus","Area 33","Area 39",7.50794,15.7021,0,,0,,0,,424,9.78,3,4.1,Card
+2024-02-20,10:03:00,CNR7981206507,"Cancelled by Customer",773632,"Prime Sedan","Area 41","Area 9",0,0,1,"AC is not working",0,,0,,810,0,0,0,UPI
+2024-02-18,13:19:00,CNR2027201506,"Driver Not Found",628174,Mini,"Area 50","Area 28",0,0,0,,0,,0,,200,0,0,0,Cash
+2024-02-20,02:34:00,CNR6529550403,"Cancelled by Customer",654409,eBike,"Area 32","Area 33",0,0,1,"Wrong Address",0,,0,,313,0,0,0,UPI
+2024-02-13,01:28:00,CNR7613550960,Success,834730,"Prime Sedan","Area 43","Area 2",14.0919,19.7347,0,,0,,0,,102,22.57,3.8,3.7,Card
+2024-02-12,00:53:00,CNR1977981275,Success,683531,Auto,"Area 4","Area 22",4.92547,9.81035,0,,0,,0,,893,14.19,4.5,4.7,Card
+2024-02-14,13:04:00,CNR6315265606,"Cancelled By Driver",140017,"Prime Sedan","Area 17","Area 33",0,0,0,,1,"Customer related issue",0,,752,0,0,0,UPI
+2024-02-15,11:30:00,CNR2596052304,"Driver Not Found",409555,"Prime Sedan","Area 24","Area 25",0,0,0,,0,,0,,121,0,0,0,Cash
+2024-02-22,04:51:00,CNR5574694226,Success,817802,Auto,"Area 24","Area 7",7.50204,19.1444,0,,0,,0,,553,5.48,3.8,4.4,Cash
+2024-02-14,05:10:00,CNR9877052529,Success,733658,"Prime SUV","Area 45","Area 12",14.7203,17.7902,0,,0,,0,,241,20.16,3.1,4.7,UPI
+2024-02-13,06:30:00,CNR4209017171,Success,775933,Auto,"Area 20","Area 7",5.28523,13.0978,0,,0,,0,,788,15.59,3.9,3.2,Card
+2024-02-14,17:15:00,CNR2769760523,Success,373700,"Prime Plus","Area 36","Area 26",8.79402,16.607,0,,0,,0,,257,13.84,4.1,3,Cash
+2024-02-27,19:37:00,CNR8221150793,"Cancelled By Driver",302668,Mini,"Area 20","Area 11",0,0,0,,1,"Customer related issue",0,,4275,0,0,0,Card
+2024-02-09,19:32:00,CNR8728030611,Success,834378,"Prime SUV","Area 7","Area 19",10.421,22.9891,0,,0,,0,,697,13.35,4.1,4.6,UPI
+2024-02-13,07:51:00,CNR7816617921,Success,140922,"Prime Plus","Area 32","Area 15",4.67809,15.3449,0,,0,,0,,301,17.82,4.1,3.6,Cash
+2024-02-15,13:54:00,CNR5086658377,"Driver Not Found",112569,eBike,"Area 26","Area 44",0,0,0,,0,,0,,424,0,0,0,UPI
+2024-02-16,19:56:00,CNR3071613640,"Driver Not Found",929792,Bike,"Area 8","Area 48",0,0,0,,0,,0,,377,0,0,0,Card
+2024-02-16,03:14:00,CNR5600344846,Success,353671,"Prime Plus","Area 15","Area 15",14.2224,22.1572,0,,0,,0,,328,6.06,3.9,3.7,UPI
+2024-02-15,02:19:00,CNR3385712470,Success,726063,"Prime SUV","Area 41","Area 5",8.16541,5.45039,0,,0,,0,,242,10.6,3,4.5,Card
+2024-02-26,15:17:00,CNR4959572208,Success,216555,Mini,"Area 23","Area 38",9.43512,17.5748,0,,0,,0,,123,21.27,5,4.5,UPI
+2024-02-21,20:52:00,CNR9973577497,"Cancelled By Driver",549627,"Prime Sedan","Area 27","Area 33",0,0,0,,1,"More than permitted people in there",0,,440,0,0,0,Card
+2024-02-01,22:19:00,CNR8477451770,Success,540696,eBike,"Area 9","Area 19",6.38246,11.136,0,,0,,0,,309,18.8,4.7,3.2,Card
+2024-02-19,02:02:00,CNR3481844913,Success,535655,Auto,"Area 47","Area 23",14.6961,14.0176,0,,0,,0,,185,23.84,4.3,4.3,UPI
+2024-02-08,15:50:00,CNR3423283784,Success,639849,Auto,"Area 9","Area 29",11.5854,10.5247,0,,0,,0,,348,17.92,4.5,3.5,Cash
+2024-02-14,09:52:00,CNR7807626877,Success,472222,"Prime Plus","Area 35","Area 39",14.5928,12.5713,0,,0,,0,,213,20.89,4.8,4.3,UPI
+2024-02-25,21:21:00,CNR9895335634,"Driver Not Found",683212,"Prime Plus","Area 37","Area 2",0,0,0,,0,,0,,471,0,0,0,Card
+2024-02-10,08:26:00,CNR2091234800,Success,397279,"Prime Plus","Area 3","Area 25",13.5493,11.457,0,,0,,0,,268,10.93,4.5,4.9,Cash
+2024-02-02,09:47:00,CNR1650803934,Success,793674,eBike,"Area 2","Area 17",10.6994,23.4136,0,,0,,0,,298,23.42,4,3.7,Card
+2024-02-23,18:49:00,CNR2549761531,Success,885598,"Prime Plus","Area 30","Area 1",4.65917,9.29966,0,,0,,0,,321,3.52,4.8,3.2,Card
+2024-02-05,19:00:00,CNR6287538012,Success,730590,Mini,"Area 47","Area 28",14.9986,22.712,0,,0,,0,,730,19.78,3.5,3.6,Cash
+2024-02-08,17:02:00,CNR3436196798,Success,471101,Bike,"Area 36","Area 30",12.5921,13.3811,0,,0,,0,,540,21.55,4.4,4.8,UPI
+2024-02-18,20:09:00,CNR5587909850,Success,616708,eBike,"Area 40","Area 31",11.2963,23.6581,0,,0,,0,,578,8.51,4.2,4.8,Cash
+2024-02-15,14:54:00,CNR2027936929,"Cancelled by Customer",776648,Bike,"Area 13","Area 49",0,0,1,"AC is not working",0,,0,,145,0,0,0,UPI
+2024-02-04,21:34:00,CNR1150797436,"Cancelled By Driver",104101,"Prime Sedan","Area 13","Area 32",0,0,0,,1,"The customer was coughing/sick",0,,817,0,0,0,Card
+2024-02-18,00:13:00,CNR1276187744,"Driver Not Found",921794,"Prime SUV","Area 29","Area 2",0,0,0,,0,,0,,218,0,0,0,UPI
+2024-02-09,10:04:00,CNR4876568665,"Cancelled by Customer",671182,eBike,"Area 44","Area 24",0,0,1,"Change of plans",0,,0,,184,0,0,0,Cash
+2024-02-04,23:47:00,CNR7553706380,"Driver Not Found",817630,"Prime Plus","Area 1","Area 28",0,0,0,,0,,0,,895,0,0,0,UPI
+2024-02-02,15:15:00,CNR9443609152,Success,663892,Mini,"Area 27","Area 34",3.94226,11.0078,0,,0,,0,,174,17.09,3.2,3.5,Cash
+2024-02-10,10:32:00,CNR5325078582,"Cancelled By Driver",176735,"Prime SUV","Area 28","Area 49",0,0,0,,1,"The customer was coughing/sick",0,,250,0,0,0,Card
+2024-02-23,13:33:00,CNR1761063329,Success,201994,eBike,"Area 39","Area 3",7.78289,21.0492,0,,0,,0,,413,10.67,3.4,3.8,Cash
+2024-02-18,07:40:00,CNR7681682565,"Cancelled By Driver",975953,Auto,"Area 13","Area 6",0,0,0,,1,"The customer was coughing/sick",0,,436,0,0,0,Cash
+2024-02-05,11:51:00,CNR7298974245,"Cancelled By Driver",410674,"Prime Sedan","Area 19","Area 23",0,0,0,,1,"Customer related issue",0,,383,0,0,0,UPI
+2024-02-11,18:31:00,CNR5110949545,Success,833377,"Prime SUV","Area 33","Area 39",9.04984,18.3086,0,,0,,0,,778,6.92,3.6,4.6,UPI
+2024-02-21,05:15:00,CNR1327987924,Success,272978,Mini,"Area 23","Area 14",12.8083,12.4968,0,,0,,0,,125,16,4.3,4,UPI
+2024-02-27,20:39:00,CNR5340631892,"Cancelled by Customer",112813,"Prime Plus","Area 25","Area 28",0,0,1,"AC is not working",0,,0,,239,0,0,0,Cash
+2024-02-13,02:27:00,CNR2490774941,Success,530542,Auto,"Area 10","Area 21",11.379,11.1021,0,,0,,0,,374,20.7,4.3,3.5,Card
+2024-02-06,23:36:00,CNR3171337100,Success,473290,"Prime SUV","Area 27","Area 22",5.74335,11.8495,0,,0,,0,,496,21.77,4.9,4.2,Cash
+2024-02-05,09:02:00,CNR8136819185,Success,803836,eBike,"Area 24","Area 31",12.4402,13.6556,0,,0,,0,,647,12.39,3.1,3.3,Cash
+2024-02-06,16:39:00,CNR4602727386,Success,398885,Bike,"Area 33","Area 4",14.1257,10.6985,0,,0,,0,,300,2.09,3.8,5,UPI
+2024-02-27,13:56:00,CNR7592308073,"Driver Not Found",206595,Bike,"Area 17","Area 37",0,0,0,,0,,0,,786,0,0,0,UPI
+2024-02-24,16:50:00,CNR4169991142,"Cancelled By Driver",816245,"Prime Sedan","Area 34","Area 17",0,0,0,,1,"Personal & Car related issues",0,,876,0,0,0,Cash
+2024-02-26,03:26:00,CNR9577623312,Success,696708,"Prime Sedan","Area 34","Area 2",7.91779,10.841,0,,0,,0,,122,8.36,4.5,4,UPI
+2024-02-03,14:33:00,CNR4091502477,"Cancelled By Driver",381116,Auto,"Area 28","Area 47",0,0,0,,1,"Personal & Car related issues",0,,454,0,0,0,UPI
+2024-02-07,22:17:00,CNR1482934876,"Cancelled by Customer",381484,eBike,"Area 21","Area 21",0,0,1,"Driver asked to cancel",0,,0,,476,0,0,0,Card
+2024-02-26,11:13:00,CNR4464904666,Success,897632,eBike,"Area 33","Area 46",4.41682,15.1689,0,,0,,0,,703,5.87,3.8,4.7,Card
+2024-02-20,23:56:00,CNR3820854873,"Driver Not Found",691875,eBike,"Area 3","Area 29",0,0,0,,0,,0,,357,0,0,0,Cash
+2024-02-04,13:37:00,CNR2373388821,Success,130024,Auto,"Area 8","Area 50",11.2485,8.72682,0,,0,,0,,946,4.42,4.3,4.9,Cash
+2024-02-05,16:55:00,CNR7410570993,Success,532608,"Prime SUV","Area 5","Area 33",5.8874,23.035,0,,0,,0,,764,11.83,3.6,3.1,UPI
+2024-02-15,16:43:00,CNR2052063002,"Cancelled By Driver",617800,"Prime Sedan","Area 20","Area 24",0,0,0,,1,"Customer related issue",0,,367,0,0,0,Cash
+2024-02-06,17:11:00,CNR2245315186,Success,371962,"Prime Sedan","Area 31","Area 20",4.79869,9.38457,0,,0,,0,,313,6.29,3.9,4.9,UPI
+2024-02-12,00:31:00,CNR4945945911,Success,317540,Mini,"Area 10","Area 9",5.9501,8.72983,0,,0,,0,,244,2.8,3.3,3.7,Cash
+2024-02-04,09:21:00,CNR6069165628,Success,134531,Bike,"Area 28","Area 38",4.55589,10.4191,0,,0,,0,,210,7.89,4.6,3.4,Cash
+2024-02-02,17:07:00,CNR6223319510,"Cancelled By Driver",129662,"Prime Sedan","Area 26","Area 30",0,0,0,,1,"The customer was coughing/sick",0,,325,0,0,0,UPI
+2024-02-27,11:23:00,CNR3053673012,"Driver Not Found",421153,"Prime Sedan","Area 19","Area 48",0,0,0,,0,,0,,447,0,0,0,Cash
+2024-02-23,03:47:00,CNR8495668122,Success,573074,"Prime SUV","Area 32","Area 36",12.7188,7.71709,0,,0,,0,,251,20.55,4.4,4.1,Cash
+2024-02-05,19:56:00,CNR3933905906,Success,387125,Mini,"Area 28","Area 5",14.6144,9.06324,0,,0,,0,,309,16.23,3.5,4.7,Card
+2024-02-05,19:04:00,CNR6811716262,"Cancelled By Driver",271193,Auto,"Area 4","Area 6",0,0,0,,1,"Customer related issue",0,,420,0,0,0,Cash
+2024-02-21,05:37:00,CNR3275932929,"Cancelled By Driver",337210,Bike,"Area 28","Area 9",0,0,0,,1,"Personal & Car related issues",0,,191,0,0,0,Cash
+2024-02-02,06:39:00,CNR9736814755,"Driver Not Found",920771,"Prime Plus","Area 13","Area 44",0,0,0,,0,,0,,122,0,0,0,Cash
+2024-02-01,19:14:00,CNR3375456263,"Cancelled By Driver",469123,Auto,"Area 48","Area 48",0,0,0,,1,"More than permitted people in there",0,,290,0,0,0,UPI
+2024-02-17,06:16:00,CNR2273548443,Success,220889,"Prime SUV","Area 47","Area 42",13.9324,10.6797,0,,0,,0,,117,17.96,3.8,4,Cash
+2024-02-15,22:19:00,CNR6085862088,"Cancelled by Customer",536288,Bike,"Area 16","Area 34",0,0,1,"Driver is not moving towards pickup location",0,,0,,220,0,0,0,Cash
+2024-02-17,23:23:00,CNR7621206564,Success,258656,"Prime Sedan","Area 47","Area 47",13.5573,17.8283,0,,0,,0,,431,17.54,4.3,3.5,Cash
+2024-02-04,00:19:00,CNR6158151759,Success,975812,Auto,"Area 22","Area 10",5.87866,18.699,0,,0,,0,,247,7.06,3.1,4.1,Cash
+2024-02-23,22:31:00,CNR8841199680,Success,616893,Auto,"Area 39","Area 39",3.23933,18.0872,0,,0,,0,,237,5.36,4.3,3.6,Cash
+2024-02-07,04:38:00,CNR7829914539,Success,988395,"Prime Sedan","Area 47","Area 28",9.74277,6.39219,0,,0,,0,,411,24.61,4.3,4.7,Cash
+2024-02-12,18:35:00,CNR8436831678,"Cancelled By Driver",959130,"Prime Sedan","Area 19","Area 29",0,0,0,,1,"More than permitted people in there",0,,553,0,0,0,Cash
+2024-02-18,00:46:00,CNR7542442865,Success,369114,"Prime Sedan","Area 33","Area 36",11.0715,10.839,0,,0,,0,,370,6.74,4,4.5,Cash
+2024-02-22,15:11:00,CNR3075487103,Success,918257,Mini,"Area 46","Area 32",14.367,8.86114,0,,0,,0,,271,8.75,4.6,3.7,UPI
+2024-02-06,15:24:00,CNR9709211850,"Cancelled By Driver",421817,"Prime Sedan","Area 39","Area 27",0,0,0,,1,"Personal & Car related issues",0,,590,0,0,0,Cash
+2024-02-05,09:22:00,CNR7554982750,Success,967396,"Prime Plus","Area 49","Area 19",11.7107,12.4622,0,,0,,0,,194,5.2,4,4.8,UPI
+2024-02-26,16:33:00,CNR3676491774,Success,581238,"Prime Sedan","Area 1","Area 2",12.015,8.97984,0,,0,,0,,573,5.3,4,3.3,Cash
+2024-02-16,09:25:00,CNR6071291042,"Cancelled by Customer",722102,Bike,"Area 35","Area 35",0,0,1,"AC is not working",0,,0,,565,0,0,0,Cash
+2024-02-06,11:33:00,CNR9184402916,"Cancelled By Driver",715546,"Prime Sedan","Area 19","Area 26",0,0,0,,1,"Customer related issue",0,,381,0,0,0,UPI
+2024-02-11,13:44:00,CNR6088440570,Success,299008,"Prime SUV","Area 4","Area 27",7.24004,10.5763,0,,0,,0,,558,17.33,4.1,3.5,Cash
+2024-02-10,17:07:00,CNR9562863036,Success,862177,Mini,"Area 30","Area 41",12.1529,11.5424,0,,0,,0,,148,10.38,3.7,3.6,Card
+2024-02-19,01:50:00,CNR8692461493,Success,714639,Mini,"Area 44","Area 18",3.24626,24.7464,0,,0,,0,,111,18.62,3.9,4.5,Card
+2024-02-28,00:12:00,CNR9943952171,"Driver Not Found",493626,Bike,"Area 10","Area 28",0,0,0,,0,,0,,674,0,0,0,Cash
+2024-02-07,11:35:00,CNR9741054836,Success,927782,Mini,"Area 21","Area 18",10.7656,13.5098,0,,0,,0,,212,13.15,4.1,4.7,Cash
+2024-02-26,01:39:00,CNR7039294969,"Cancelled by Customer",279014,"Prime Sedan","Area 14","Area 18",0,0,1,"Driver asked to cancel",0,,0,,632,0,0,0,Card
+2024-02-04,16:15:00,CNR6707682734,Success,568668,Auto,"Area 2","Area 14",12.6551,5.30493,0,,0,,0,,170,4.29,3.8,5,Cash
+2024-02-13,19:03:00,CNR3081200216,"Cancelled By Driver",963140,"Prime Sedan","Area 48","Area 12",0,0,0,,1,"Personal & Car related issues",0,,301,0,0,0,UPI
+2024-02-03,23:30:00,CNR8035200981,Success,794514,"Prime SUV","Area 9","Area 2",4.10827,14.1981,0,,0,,0,,761,7.89,4.2,3.5,Cash
+2024-02-24,06:32:00,CNR4799921950,Success,676595,"Prime Sedan","Area 29","Area 4",7.72484,11.0466,0,,0,,0,,214,4.5,4.3,3.5,Cash
+2024-02-05,07:00:00,CNR1742581673,Success,422729,"Prime SUV","Area 20","Area 45",6.96377,19.7358,0,,0,,0,,889,23.24,3.8,4,Cash
+2024-02-11,23:43:00,CNR4229000492,Success,847872,Bike,"Area 14","Area 30",10.0172,14.402,0,,0,,0,,913,11.13,3.2,4.1,Card
+2024-02-06,17:57:00,CNR5247928684,"Cancelled By Driver",763980,eBike,"Area 47","Area 35",0,0,0,,1,"The customer was coughing/sick",0,,214,0,0,0,Card
+2024-02-07,21:47:00,CNR6685355390,Success,785580,"Prime Sedan","Area 29","Area 20",5.40057,7.69081,0,,0,,0,,740,20.65,3.6,4.2,Card
+2024-02-17,05:26:00,CNR7331443924,Success,149448,"Prime Plus","Area 14","Area 2",3.72045,15.3882,0,,0,,1,"Customer Demand",1566,22.29,5,4.2,UPI
+2024-02-01,20:59:00,CNR6424610006,Success,272439,Auto,"Area 2","Area 50",4.7402,19.7131,0,,0,,0,,333,10.17,4.9,4.7,Card
+2024-02-17,21:06:00,CNR7000844455,Success,911449,Mini,"Area 3","Area 46",11.4972,18.3232,0,,0,,1,"Other Issue",314,14.99,4.4,3.4,Cash
+2024-02-11,14:01:00,CNR2566692020,Success,968245,Bike,"Area 11","Area 30",10.6333,13.2072,0,,0,,0,,272,16.6,4.4,4.7,Cash
+2024-02-20,13:36:00,CNR7693309709,Success,975344,"Prime Sedan","Area 48","Area 12",6.82069,13.9143,0,,0,,0,,950,10.85,3.6,3.2,Card
+2024-02-09,06:18:00,CNR4680694537,Success,475491,Mini,"Area 23","Area 2",3.64295,13.8089,0,,0,,0,,2216,23.67,3.9,3.3,UPI
+2024-02-18,00:57:00,CNR9963526775,Success,729932,Auto,"Area 38","Area 34",7.63273,8.38661,0,,0,,0,,856,16.64,4.2,4.9,Card
+2024-02-13,18:29:00,CNR8060012996,Success,730433,Mini,"Area 36","Area 43",9.55914,19.95,0,,0,,0,,801,10.84,3.9,3.1,Cash
+2024-02-21,09:32:00,CNR6639680650,Success,270721,"Prime Plus","Area 37","Area 8",4.07436,11.154,0,,0,,0,,164,12.65,4.4,3.5,Cash
+2024-02-04,10:44:00,CNR9505909843,"Driver Not Found",282661,"Prime Plus","Area 15","Area 24",0,0,0,,0,,0,,418,0,0,0,Card
+2024-02-23,06:54:00,CNR6336581771,Success,394564,Mini,"Area 6","Area 23",8.63488,22.485,0,,0,,0,,734,6.28,4.1,3.7,Cash
+2024-02-04,02:32:00,CNR9769929937,"Cancelled By Driver",191915,"Prime Plus","Area 40","Area 19",0,0,0,,1,"More than permitted people in there",0,,118,0,0,0,Card
+2024-02-23,05:43:00,CNR1444048340,Success,809346,Mini,"Area 31","Area 13",12.8552,18.1948,0,,0,,0,,283,6.67,4.2,4.9,UPI
+2024-02-04,18:34:00,CNR4035320631,Success,388594,eBike,"Area 50","Area 18",14.0817,20.2216,0,,0,,1,"Other Issue",449,20.09,4.3,3.3,Cash
+2024-02-04,08:43:00,CNR4617720356,"Driver Not Found",242729,eBike,"Area 25","Area 38",0,0,0,,0,,0,,662,0,0,0,Cash
+2024-02-17,21:10:00,CNR4487770171,Success,527139,"Prime Plus","Area 47","Area 46",8.69079,19.7738,0,,0,,0,,236,11.63,3.1,4.9,Cash
+2024-02-19,23:40:00,CNR4065152396,"Driver Not Found",600116,Bike,"Area 8","Area 11",0,0,0,,0,,0,,911,0,0,0,UPI
+2024-02-23,23:11:00,CNR1893020589,"Cancelled By Driver",743531,"Prime SUV","Area 5","Area 6",0,0,0,,1,"Personal & Car related issues",0,,298,0,0,0,Cash
+2024-02-10,09:19:00,CNR2531810249,Success,326870,Auto,"Area 26","Area 18",9.62267,24.504,0,,0,,0,,987,16,3.6,3.7,Cash
+2024-02-13,08:13:00,CNR5150732173,Success,363563,Auto,"Area 7","Area 46",10.4848,10.1683,0,,0,,0,,979,6.69,3.2,4.2,Cash
+2024-02-25,05:26:00,CNR5745263826,Success,776219,Mini,"Area 32","Area 6",9.5418,8.57752,0,,0,,0,,797,11.47,4.6,4.8,UPI
+2024-02-28,20:46:00,CNR8092178722,"Cancelled by Customer",397518,"Prime Sedan","Area 5","Area 10",0,0,1,"Driver asked to cancel",0,,0,,308,0,0,0,Cash
+2024-02-14,23:26:00,CNR3594806751,"Driver Not Found",555457,eBike,"Area 14","Area 2",0,0,0,,0,,0,,306,0,0,0,Cash
+2024-02-20,21:41:00,CNR5640695363,Success,706665,Mini,"Area 3","Area 48",12.5003,20.464,0,,0,,0,,960,5.95,3.1,4.8,UPI
+2024-02-29,19:17:00,CNR7736742293,"Driver Not Found",588393,eBike,"Area 37","Area 29",0,0,0,,0,,0,,4829,0,0,0,Cash
+2024-02-05,17:28:00,CNR9982669858,"Cancelled By Driver",526645,eBike,"Area 38","Area 36",0,0,0,,1,"Personal & Car related issues",0,,348,0,0,0,Cash
+2024-02-02,03:16:00,CNR2995170492,Success,151161,Auto,"Area 18","Area 20",3.21671,6.8343,0,,0,,0,,866,23.94,3.3,3.8,Cash
+2024-02-17,19:49:00,CNR1916479700,Success,459217,"Prime Plus","Area 19","Area 20",8.05037,22.3226,0,,0,,0,,862,4.47,3.5,4.4,UPI
+2024-02-19,07:23:00,CNR2584561405,"Cancelled By Driver",259843,"Prime Plus","Area 14","Area 35",0,0,0,,1,"Personal & Car related issues",0,,608,0,0,0,Cash
+2024-02-27,02:52:00,CNR7887110144,"Cancelled By Driver",523295,Auto,"Area 7","Area 43",0,0,0,,1,"More than permitted people in there",0,,372,0,0,0,UPI
+2024-02-01,12:48:00,CNR6234201426,Success,418427,Bike,"Area 48","Area 22",11.066,16.0972,0,,0,,0,,378,11.31,3.4,3.6,Cash
