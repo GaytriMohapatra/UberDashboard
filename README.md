@@ -1,5 +1,4 @@
-# UberDashboard
-Uber Dashboard using Power BI, Excel, SQL
+
 # 🚖 Uber Ride Analytics Dashboard - Power BI  
 
 ## 📌 Overview  
